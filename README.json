@@ -1,0 +1,1236 @@
+{
+  "items": [
+    {
+      "description": "If your project isn't listed here and you would like it to be, please feel free to create a PR.\nIf you find a broken link or incorrect information, please feel free to open an issue or create a PR.",
+      "items": [],
+      "title": "Contribution"
+    },
+    {
+      "description": "I have not checked these projects and I don't necessarily recommend them. Use them at your own discretion.",
+      "items": [],
+      "title": "Disclaimer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "loco.rs",
+          "description": "A full stack Web and API productivity framework similar to Rails, based on axum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-05T10:43:10Z",
+            "owner": "loco-rs",
+            "repo": "loco",
+            "stars": 9067
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "socketioxide",
+          "description": "An easy to use socket.io server implementation working as a layer/service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T16:13:13Z",
+            "owner": "Totodore",
+            "repo": "socketioxide",
+            "stars": 1619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zino",
+          "description": "Zino is a next-generation framework for composable applications which provides full integrations with axum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T03:19:00Z",
+            "owner": "zino-rs",
+            "repo": "zino",
+            "stars": 1147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spring-rs",
+          "description": "spring-rs is a microservice framework written in rust inspired by java's spring-boot, based on axum",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-04T11:15:51Z",
+            "owner": "summer-rs",
+            "repo": "summer-rs",
+            "stars": 991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tower-sessions",
+          "description": "Sessions as a and middleware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-05T14:47:45Z",
+            "owner": "maxcountryman",
+            "repo": "tower-sessions",
+            "stars": 420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-htmx",
+          "description": "Htmx extractors and request guards for axum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-20T00:02:20Z",
+            "owner": "robertwayne",
+            "repo": "axum-htmx",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ezsockets",
+          "description": "Easy to use WebSocket library that integrates with axum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-18T09:31:16Z",
+            "owner": "gbaranski",
+            "repo": "ezsockets",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum_session",
+          "description": "Database persistent sessions like pythons flask_sessionstore for axum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T19:27:55Z",
+            "owner": "AscendingCreations",
+            "repo": "AxumSession",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svelte-axum-project",
+          "description": "Template and example for Svelte frontend app with axum as backend",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-10-17T21:53:07Z",
+            "owner": "jbertovic",
+            "repo": "svelte-axum-project",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-valid",
+          "description": "Extractors for data validation using validator, garde, and validify.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-30T10:40:44Z",
+            "owner": "gengteng",
+            "repo": "axum-valid",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum_session_auth",
+          "description": "Persistent session based user login with rights management for axum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T19:35:27Z",
+            "owner": "AscendingCreations",
+            "repo": "AxumSessionAuth",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tower-resilience",
+          "description": "Resilience middleware for tower: circuit breaker, bulkhead, retry, rate limiter, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T03:32:54Z",
+            "owner": "joshrotenberg",
+            "repo": "tower-resilience",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-template",
+          "description": "Layers, extractors and template engine wrappers for axum based Web MVC applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-13T02:24:24Z",
+            "owner": "Altair-Bueno",
+            "repo": "axum-template",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AxumKit",
+          "description": "Production-ready Rust web backend template with authentication, sea-orm (Postgres), SMTP email, Rate limiting with Redis, and deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-02T14:32:32Z",
+            "owner": "levish0",
+            "repo": "AxumKit",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-prometheus",
+          "description": "A middleware library to collect HTTP metrics for axum applications, compatible with all metrics.rs exporters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-31T07:07:09Z",
+            "owner": "Ptrskay3",
+            "repo": "axum-prometheus",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-streams",
+          "description": "Streaming HTTP body with different formats: JSON, CSV, Protobuf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-18T19:16:01Z",
+            "owner": "abdolence",
+            "repo": "axum-streams-rs",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-casbin-auth",
+          "description": "Casbin access control middleware for axum",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-15T19:06:09Z",
+            "owner": "apache",
+            "repo": "casbin-axum-casbin",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-template",
+          "description": "GraphQL and REST API, SurrealDb, JWT auth, direct error handling, request logs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-20T18:45:55Z",
+            "owner": "janos-r",
+            "repo": "axum-template",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-keycloak-auth",
+          "description": "Protect axum routes with a JWT emitted by Keycloak.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-05-18T16:25:27Z",
+            "owner": "lpotthast",
+            "repo": "axum-keycloak-auth",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-axum-with-google-oauth",
+          "description": "website template for Google OAuth authentication on axum, using SQLite with SQLx or MongoDB and MiniJinja.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-14T09:35:16Z",
+            "owner": "randommm",
+            "repo": "rust-axum-with-google-oauth",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-messages",
+          "description": "One-time notification messages for axum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-01T19:59:13Z",
+            "owner": "maxcountryman",
+            "repo": "axum-messages",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seamjs",
+          "description": "Compile-time rendering framework where UI Stack (e.g. React...) pages are pre-rendered at build time and Axum serves them via Rust-native HTML slot injection (~1ms/page), with typed RPC procedures codegen'd from a shared manifest. (Added on 2026.04.27)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-03T17:40:58Z",
+            "owner": "canmi21",
+            "repo": "seam",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-otel-metrics",
+          "description": "A axum OpenTelemetry Metrics middleware with prometheus exporter supported.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-12T02:48:41Z",
+            "owner": "ttys3",
+            "repo": "axum-otel-metrics",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-restful",
+          "description": "A restful framework based on axum and sea-orm, inspired by django-rest-framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-12-19T06:18:43Z",
+            "owner": "gongzhengyang",
+            "repo": "axum-restful",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-tungstenite",
+          "description": "WebSocket connections for axum directly using tungstenite",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-03-16T14:08:05Z",
+            "owner": "davidpdrsn",
+            "repo": "axum-tungstenite",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-helmet",
+          "description": "A security middleware library for popular Rust web frameworks, with first-class support. (Add on 2026.04.27)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-01T12:16:44Z",
+            "owner": "danielkov",
+            "repo": "rust-helmet",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-jrpc",
+          "description": "Json-rpc extractor for axum",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-07T12:33:51Z",
+            "owner": "0xdeafbeef",
+            "repo": "axum-jrpc",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "api-error",
+          "description": "A proc macro to define HTTP errors in a thiserror way. It automatically implements for your error types. Allowing you to directly return from your axum handlers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T23:44:02Z",
+            "owner": "centreon",
+            "repo": "rs-api-error",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tower-otel",
+          "description": "OpenTelemetry layer for HTTP/gRPC services with optional axum integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-22T05:14:04Z",
+            "owner": "mattiapenati",
+            "repo": "tower-otel",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-serde",
+          "description": "Provides multiple serde-based extractors / responses, also offers a macro to easily customize serde-based extractors / responses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-18T12:01:52Z",
+            "owner": "gengteng",
+            "repo": "axum-serde",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-rails-cookie",
+          "description": "Extract rails session cookies in axum based apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-20T15:19:27Z",
+            "owner": "endoze",
+            "repo": "axum-rails-cookie",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "baxe",
+          "description": "Simple macro for defining backend errors once and automatically generate standardized JSON error responses, saving time and reducing complexity",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-09T10:55:51Z",
+            "owner": "zyphelabs",
+            "repo": "baxe",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-governor",
+          "description": "An independent Axum middleware for rate limiting, powered by lazy-limit (not related to tower-governor).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2026-01-16T09:21:25Z",
+            "owner": "canmi21",
+            "repo": "lazy-limit",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feature Flag Service",
+          "description": "A production-ready feature flag management service built with Rust, Axum, and PostgreSQL. (Addedon 2026.04.27)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-21T13:22:53Z",
+            "owner": "Webrowse",
+            "repo": "feature-flag-service-backend",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-ws-broadcaster",
+          "description": "A broadcasting liblary for both axum-typed-websockets and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-11T07:05:43Z",
+            "owner": "Necoo33",
+            "repo": "axum-ws-broadcaster",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-negotiate-layer",
+          "description": "Middleware/Layer for Kerberos/NTLM \"Negotiate\" authentication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-10T10:37:37Z",
+            "owner": "2ndDerivative",
+            "repo": "axum-negotiate-layer",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sigterm",
+          "description": "Signal-aware async control and cancellation primitives for Tokio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-27T08:42:12Z",
+            "owner": "canmi21",
+            "repo": "sigterm",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "📦 Community maintained axum ecosystem"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ROAPI",
+          "description": "Create full-fledged APIs for static datasets without writing a single line of code. (axum 0.8)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-25T05:39:57Z",
+            "owner": "roapi",
+            "repo": "roapi",
+            "stars": 3417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wastebin",
+          "description": "A minimalist pastebin service. (axum 0.8)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T19:00:53Z",
+            "owner": "matze",
+            "repo": "wastebin",
+            "stars": 832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "turbo.fish",
+          "description": "(repository): Find out for yourself 😉 (archived; axum 0.8.1)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2026-05-13T10:29:28Z",
+            "owner": "jplatte",
+            "repo": "turbo.fish",
+            "stars": 678
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReductStore",
+          "description": "A time series database for storing and managing large amounts of blob data. (axum 0.8.7)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T06:34:16Z",
+            "owner": "reductstore",
+            "repo": "reductstore",
+            "stars": 366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fx",
+          "description": "A (micro)blogging server that you can self-host. (axum 0.8)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-01T06:34:33Z",
+            "owner": "rikhuijzer",
+            "repo": "fx",
+            "stars": 325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "freedit",
+          "description": "A forum powered by rust. (axum 0.8.7)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-20T07:44:16Z",
+            "owner": "freedit-org",
+            "repo": "freedit",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum_admin",
+          "description": "An admin panel built with axum, Sea-orm and Vue 3. (axum 0.8.8)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-24T07:51:14Z",
+            "owner": "lingdu1234",
+            "repo": "axum_admin",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qiluo-admin",
+          "description": "Axum + SeaORM + JWT + Scheduled + Tasks + SnowId + Redis + Memory + VUE3 | DB: MySQL, Postgres, SQLite. (axum 0.8.9)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-22T02:13:23Z",
+            "owner": "chelunfu",
+            "repo": "qiluo_admin",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rgit",
+          "description": "A blazingly fast Git repository browser, compatible with- and heavily inspired by cgit. (axum 0.8)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-10-01T19:04:44Z",
+            "owner": "w4",
+            "repo": "rgit",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clean_axum_demo",
+          "description": "A modern, clean-architecture Rust API server template built with Axum and SQLx. It incorporates domain-driven design, repository patterns, JWT authentication, file uploads, Swagger documentation, OpenTelemetry. (axum 0.8.3)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-09T07:13:21Z",
+            "owner": "sukjaelee",
+            "repo": "clean_axum_demo",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RUSTfulapi",
+          "description": "Reusable template for building REST Web Services in Rust. Uses axum and SeaORM. (axum 0.8.1)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-03-06T06:20:17Z",
+            "owner": "robatipoor",
+            "repo": "rustfulapi",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KeyCompute",
+          "description": "KeyCompute is a high-performance, scalable, and ready-to-use AI computing power service platform. (axum 0.8; added on 2026.04.27)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-28T03:04:39Z",
+            "owner": "keycompute",
+            "repo": "keycompute",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLOMonitor",
+          "description": "(repository): Checks open source projects repositories to verify they meet certain best practices. (axum 0.8.8)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T14:50:05Z",
+            "owner": "cncf",
+            "repo": "clomonitor",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-rest-api-example",
+          "description": "REST API Web service in Rust using axum, JSON Web Tokens (JWT), SQLx, PostgreSQL, Redis, Docker, structured error handling, and end-to-end API tests. (axum 0.8)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-06T23:41:48Z",
+            "owner": "sheroz",
+            "repo": "axum-rest-api-sample",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webshelf",
+          "description": "🤘 A convenient way to develop your web service with one click. (axum 0.8.8)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-06T12:30:48Z",
+            "owner": "aiqubits",
+            "repo": "webshelf",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lishuuro.org",
+          "description": "Small chess variant server that uses axum for the backend. (axum 0.8.3)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-01T09:19:38Z",
+            "owner": "uros-5",
+            "repo": "no-theory",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remotehiro",
+          "description": "is a job board with performance, accessibility, and focus in mind. GitHub (axum 0.8; added on 2026.05.02)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SQL",
+            "last_commit": "2026-08-05T00:17:23Z",
+            "owner": "tacohirosystems",
+            "repo": "remotehiro",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tower-mcp",
+          "description": "Tower-native Model Context Protocol (MCP) implementation. (axum 0.8)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T21:45:26Z",
+            "owner": "joshrotenberg",
+            "repo": "tower-mcp",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xidl",
+          "description": "Using axum just like tonic, declare IDL, then generate server, client and OpenAPI. (axum 0.8; added on 2026.04.27)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T11:50:13Z",
+            "owner": "xidl",
+            "repo": "xidl",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "🖼️ Project showcase (axum 0.8.x)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Svix",
+          "description": "(repository): Enterprise-ready webhook service. (axum 0.7.9)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T15:52:03Z",
+            "owner": "svix",
+            "repo": "svix-webhooks",
+            "stars": 3350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "realworld-axum-sqlx",
+          "description": "A Rust implementation of the Realworld demo app spec using axum and SQLx. (axum 0.3.4) See fork with newer dependencies. (axum 0.7.3)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-12-30T06:13:14Z",
+            "owner": "launchbadge",
+            "repo": "realworld-axum-sqlx",
+            "stars": 1102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rustapi",
+          "description": "RESTful API template using MongoDB. (axum 0.7.5)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-07T10:26:40Z",
+            "owner": "ndelvalle",
+            "repo": "rustapi",
+            "stars": 546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jotsy",
+          "description": "Self-hosted notes app powered by Skytable, axum and Tokio. (axum 0.5.17)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-11-28T13:59:52Z",
+            "owner": "ohsayan",
+            "repo": "jotsy",
+            "stars": 512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hatsu",
+          "description": "🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites. (axum 0.7)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-14T05:59:05Z",
+            "owner": "importantimport",
+            "repo": "hatsu",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emojied",
+          "description": "Shorten URLs to emojis! (axum 0.6)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-18T03:51:40Z",
+            "owner": "sekunho",
+            "repo": "emojied",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Houseflow",
+          "description": "House automation platform written in Rust. (axum 0.5.1)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-04-13T16:53:24Z",
+            "owner": "gbaranski",
+            "repo": "houseflow",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deaftone",
+          "description": "Lightweight music server. With a clean and simple API. (axum 0.7.3)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-05T15:45:28Z",
+            "owner": "Deaftone",
+            "repo": "Deaftone",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pinging.net",
+          "description": "(repository): A new way to check and monitor your internet connection. (axum 0.7)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T20:25:44Z",
+            "owner": "benhansen-io",
+            "repo": "pinging",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JWT Auth",
+          "description": "JWT auth service for educational purposes. (axum 0.4)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-12-11T08:43:27Z",
+            "owner": "3olkin",
+            "repo": "axum_jwt_example",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notify.run",
+          "description": "HTTP-to-WebPush relay for sending desktop/mobile notifications to yourself, written in Rust. (axum 0.3)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-12-24T20:04:42Z",
+            "owner": "notify-run",
+            "repo": "notify-run-rs",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Book Management",
+          "description": "CRUD system of book-management with ORM and JWT for educational purposes. (axum 0.7)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-12-01T12:21:20Z",
+            "owner": "lz1998",
+            "repo": "axum-book-management",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-postgres-template",
+          "description": "Production-ready axum + PostgreSQL application template. (axum 0.7.6)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-11-16T06:42:18Z",
+            "owner": "koskeller",
+            "repo": "axum-postgres-template",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mini RPS",
+          "description": "Mini reverse proxy server, HTTPS, CORS, static file hosting and template engine (minijinja). (axum 0.7.7)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-11-06T19:01:21Z",
+            "owner": "marcodpt",
+            "repo": "minirps",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openapi-rs",
+          "description": "This project adds a middleware layer to axum using openapi-rs, enabling automatic request validation and processing based on OpenAPI 3.1 specifications. It helps ensure that the server behavior strictly follows the OpenAPI contract. (axum 0.7)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-22T09:56:24Z",
+            "owner": "baerwang",
+            "repo": "openapi-rs",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sero",
+          "description": "Host static sites with custom subdomains as surge.sh does. But with full control and cool new features. (axum, sea-orm, postgresql). (axum 0.7.4)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-10-04T13:24:02Z",
+            "owner": "clowzed",
+            "repo": "sero",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dropit",
+          "description": "Temporary file hosting. (axum 0.5.13)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-02-14T19:40:34Z",
+            "owner": "scotow",
+            "repo": "dropit",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HomeDisk",
+          "description": "☁️ Fast, lightweight and Open Source local cloud for your data. (archived; axum 0.6)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2022-10-28T01:13:36Z",
+            "owner": "OskarKarpinski",
+            "repo": "HomeDisk",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sandbox_axum_observability",
+          "description": "A Sandbox/showcase project to experiment axum and observability (tracing, opentelemetry, jaeger, grafana tempo,...) (axum 0.6)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-08-06T16:12:02Z",
+            "owner": "davidB",
+            "repo": "sandbox_axum_observability",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Petclinic",
+          "description": "A port of Spring Framework's Petclinic showcase project to axum. (axum 0.5.13)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-08-12T09:46:47Z",
+            "owner": "danipardo",
+            "repo": "petclinic",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-http-auth-example",
+          "description": "axum http auth example using postgres and redis. (axum 0.6.0)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-11-26T01:51:45Z",
+            "owner": "i0n",
+            "repo": "axum-http-auth-example",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-middleware-example",
+          "description": "A authorization application using axum, Casbin and Diesel, with JWT support. (axum 0.5.13)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-15T19:19:28Z",
+            "owner": "apache",
+            "repo": "casbin-rust-axum-middleware-example",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "circleci-hook",
+          "description": "Translate CircleCI WebHooks to OpenTelemetry traces to improve your test insights. Add detail with otel-cli to capture individual commands. Use the TRACEPARENT integration to add details from your tests. (axum 0.6.0)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-02-04T00:33:50Z",
+            "owner": "DavidS",
+            "repo": "circleci-hook",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httq",
+          "description": "HTTP to MQTT trivial proxy. (axum 0.6.15)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-04-17T21:42:25Z",
+            "owner": "scotow",
+            "repo": "httq",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "randoku",
+          "description": "A tiny web service which generates random numbers and shuffles lists randomly. (axum 0.7)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-24T07:49:28Z",
+            "owner": "stchris",
+            "repo": "randoku",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meta-cross",
+          "description": "Tweaked version of Tic-Tac-Toe. (axum 0.6.7)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-05-08T22:44:02Z",
+            "owner": "scotow",
+            "repo": "meta-cross",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cobrust",
+          "description": "Multiplayer web based snake game. (axum 0.6.1)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-07-30T12:20:34Z",
+            "owner": "scotow",
+            "repo": "cobrust",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "🖼️ Project showcase (old)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "demo-rust-axum",
+          "description": "Demo of Rust and axum",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-13T12:01:30Z",
+            "owner": "joelparkerhenderson",
+            "repo": "demo-rust-axum",
+            "stars": 439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-tutorial",
+          "description": "axum tutorial for beginners. website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-11-07T14:06:44Z",
+            "owner": "programatik29",
+            "repo": "axum-tutorial",
+            "stars": 148
+          }
+        }
+      ],
+      "title": "📖 Tutorials"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:20:33.260Z",
+    "original_repository": "szabgab/awesome-axum",
+    "original_repository_sha": "69a2c7275df1435c44380d47c7758fe62f40f5bf",
+    "enhanced_repository": "enhansome/enhansome-axum",
+    "enhanced_repository_description": null,
+    "title": "Awesome axum with stars"
+  }
+}
