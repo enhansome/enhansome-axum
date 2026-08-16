@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-05T10:43:10Z",
+            "last_commit": "2026-08-15T17:16:55Z",
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9074
+            "stars": 9077
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-08-13T16:13:13Z",
             "owner": "Totodore",
             "repo": "socketioxide",
-            "stars": 1619
+            "stars": 1620
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-07-04T11:15:51Z",
             "owner": "summer-rs",
             "repo": "summer-rs",
-            "stars": 991
+            "stars": 992
           }
         },
         {
@@ -175,7 +175,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-09T03:32:54Z",
+            "last_commit": "2026-08-15T23:33:11Z",
             "owner": "joshrotenberg",
             "repo": "tower-resilience",
             "stars": 101
@@ -562,7 +562,7 @@
             "last_commit": "2026-08-10T19:00:53Z",
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 832
+            "stars": 833
           }
         },
         {
@@ -615,10 +615,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-20T07:44:16Z",
+            "last_commit": "2026-08-15T08:59:39Z",
             "owner": "freedit-org",
             "repo": "freedit",
-            "stars": 313
+            "stars": 314
           }
         },
         {
@@ -674,7 +674,7 @@
             "last_commit": "2025-08-09T07:13:21Z",
             "owner": "sukjaelee",
             "repo": "clean_axum_demo",
-            "stars": 199
+            "stars": 200
           }
         },
         {
@@ -820,7 +820,7 @@
             "last_commit": "2026-08-13T15:52:03Z",
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3351
+            "stars": 3352
           }
         },
         {
@@ -1153,7 +1153,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-24T07:49:28Z",
+            "last_commit": "2026-08-15T08:14:54Z",
             "owner": "stchris",
             "repo": "randoku",
             "stars": 3
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:14:24.647Z",
+    "last_updated": "2026-08-16T04:21:25.003Z",
     "original_repository": "szabgab/awesome-axum",
     "original_repository_sha": "69a2c7275df1435c44380d47c7758fe62f40f5bf",
     "enhanced_repository": "enhansome/enhansome-axum",
