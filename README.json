@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T17:16:55Z",
+            "last_commit": "2026-08-16T14:03:37Z",
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9077
+            "stars": 9076
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2026-08-10T03:19:00Z",
             "owner": "zino-rs",
             "repo": "zino",
-            "stars": 1144
+            "stars": 1143
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-06-30T10:40:44Z",
             "owner": "gengteng",
             "repo": "axum-valid",
-            "stars": 166
+            "stars": 165
           }
         },
         {
@@ -562,7 +562,7 @@
             "last_commit": "2026-08-10T19:00:53Z",
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 833
+            "stars": 836
           }
         },
         {
@@ -587,7 +587,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-08T06:34:16Z",
+            "last_commit": "2026-08-16T05:13:09Z",
             "owner": "reductstore",
             "repo": "reductstore",
             "stars": 366
@@ -660,7 +660,7 @@
             "last_commit": "2025-10-01T19:04:44Z",
             "owner": "w4",
             "repo": "rgit",
-            "stars": 210
+            "stars": 209
           }
         },
         {
@@ -699,7 +699,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-28T03:04:39Z",
+            "last_commit": "2026-08-16T14:34:58Z",
             "owner": "keycompute",
             "repo": "keycompute",
             "stars": 178
@@ -783,7 +783,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T21:45:26Z",
+            "last_commit": "2026-08-16T14:16:59Z",
             "owner": "joshrotenberg",
             "repo": "tower-mcp",
             "stars": 9
@@ -820,7 +820,7 @@
             "last_commit": "2026-08-13T15:52:03Z",
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3352
+            "stars": 3353
           }
         },
         {
@@ -1204,7 +1204,7 @@
             "last_commit": "2025-07-13T12:01:30Z",
             "owner": "joelparkerhenderson",
             "repo": "demo-rust-axum",
-            "stars": 439
+            "stars": 440
           }
         },
         {
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:21:25.003Z",
+    "last_updated": "2026-08-17T04:26:25.615Z",
     "original_repository": "szabgab/awesome-axum",
     "original_repository_sha": "69a2c7275df1435c44380d47c7758fe62f40f5bf",
     "enhanced_repository": "enhansome/enhansome-axum",
