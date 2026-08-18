@@ -21,7 +21,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T14:03:37Z",
+            "last_commit": "2026-08-17T07:34:53Z",
             "owner": "loco-rs",
             "repo": "loco",
             "stars": 9076
@@ -38,7 +38,7 @@
             "last_commit": "2026-08-13T16:13:13Z",
             "owner": "Totodore",
             "repo": "socketioxide",
-            "stars": 1620
+            "stars": 1621
           }
         },
         {
@@ -175,7 +175,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T23:33:11Z",
+            "last_commit": "2026-08-17T23:01:40Z",
             "owner": "joshrotenberg",
             "repo": "tower-resilience",
             "stars": 101
@@ -483,7 +483,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-21T13:22:53Z",
+            "last_commit": "2026-08-17T19:30:57Z",
             "owner": "Webrowse",
             "repo": "feature-flag-service-backend",
             "stars": 4
@@ -559,7 +559,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T19:00:53Z",
+            "last_commit": "2026-08-17T14:31:45Z",
             "owner": "matze",
             "repo": "wastebin",
             "stars": 836
@@ -587,7 +587,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T05:13:09Z",
+            "last_commit": "2026-08-17T18:19:42Z",
             "owner": "reductstore",
             "repo": "reductstore",
             "stars": 366
@@ -646,7 +646,7 @@
             "last_commit": "2026-07-22T02:13:23Z",
             "owner": "chelunfu",
             "repo": "qiluo_admin",
-            "stars": 229
+            "stars": 230
           }
         },
         {
@@ -702,7 +702,7 @@
             "last_commit": "2026-08-16T14:34:58Z",
             "owner": "keycompute",
             "repo": "keycompute",
-            "stars": 178
+            "stars": 180
           }
         },
         {
@@ -716,7 +716,7 @@
             "last_commit": "2026-07-24T14:50:05Z",
             "owner": "cncf",
             "repo": "clomonitor",
-            "stars": 149
+            "stars": 148
           }
         },
         {
@@ -744,7 +744,7 @@
             "last_commit": "2026-07-06T12:30:48Z",
             "owner": "aiqubits",
             "repo": "webshelf",
-            "stars": 62
+            "stars": 65
           }
         },
         {
@@ -797,7 +797,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T06:21:32Z",
+            "last_commit": "2026-08-17T10:45:15Z",
             "owner": "xidl",
             "repo": "xidl",
             "stars": 9
@@ -817,10 +817,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T15:52:03Z",
+            "last_commit": "2026-08-17T20:07:26Z",
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3353
+            "stars": 3357
           }
         },
         {
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:26:25.615Z",
+    "last_updated": "2026-08-18T04:20:27.510Z",
     "original_repository": "szabgab/awesome-axum",
     "original_repository_sha": "69a2c7275df1435c44380d47c7758fe62f40f5bf",
     "enhanced_repository": "enhansome/enhansome-axum",
