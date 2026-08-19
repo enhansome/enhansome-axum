@@ -175,7 +175,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T23:01:40Z",
+            "last_commit": "2026-08-18T20:49:37Z",
             "owner": "joshrotenberg",
             "repo": "tower-resilience",
             "stars": 101
@@ -273,7 +273,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2025-05-18T16:25:27Z",
+            "last_commit": "2026-08-18T14:24:49Z",
             "owner": "lpotthast",
             "repo": "axum-keycloak-auth",
             "stars": 65
@@ -399,7 +399,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T23:44:02Z",
+            "last_commit": "2026-08-18T08:02:27Z",
             "owner": "centreon",
             "repo": "rs-api-error",
             "stars": 18
@@ -562,7 +562,7 @@
             "last_commit": "2026-08-17T14:31:45Z",
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 836
+            "stars": 837
           }
         },
         {
@@ -587,7 +587,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T18:19:42Z",
+            "last_commit": "2026-08-18T15:54:19Z",
             "owner": "reductstore",
             "repo": "reductstore",
             "stars": 366
@@ -699,7 +699,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T14:34:58Z",
+            "last_commit": "2026-08-18T14:39:48Z",
             "owner": "keycompute",
             "repo": "keycompute",
             "stars": 180
@@ -797,7 +797,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T10:45:15Z",
+            "last_commit": "2026-08-18T14:24:12Z",
             "owner": "xidl",
             "repo": "xidl",
             "stars": 9
@@ -817,10 +817,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T20:07:26Z",
+            "last_commit": "2026-08-18T11:08:51Z",
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3357
+            "stars": 3359
           }
         },
         {
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:20:27.510Z",
+    "last_updated": "2026-08-19T04:21:56.913Z",
     "original_repository": "szabgab/awesome-axum",
     "original_repository_sha": "69a2c7275df1435c44380d47c7758fe62f40f5bf",
     "enhanced_repository": "enhansome/enhansome-axum",
