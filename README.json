@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T06:17:33Z",
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9076
+            "stars": 9077
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 1071877745,
             "language": "Rust",
-            "last_commit": "2026-08-19T04:32:02Z",
+            "last_commit": "2026-08-19T17:01:35Z",
             "owner": "joshrotenberg",
             "repo": "tower-resilience",
             "stars": 101
@@ -591,7 +591,7 @@
             "last_commit": "2026-08-17T14:31:45Z",
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 838
+            "stars": 839
           }
         },
         {
@@ -621,7 +621,7 @@
             "last_commit": "2026-08-18T15:54:19Z",
             "owner": "reductstore",
             "repo": "reductstore",
-            "stars": 366
+            "stars": 368
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2026-07-22T02:13:23Z",
             "owner": "chelunfu",
             "repo": "qiluo_admin",
-            "stars": 230
+            "stars": 231
           }
         },
         {
@@ -828,7 +828,7 @@
             "archived": false,
             "id": 1143689995,
             "language": "Rust",
-            "last_commit": "2026-08-16T14:16:59Z",
+            "last_commit": "2026-08-19T15:18:25Z",
             "owner": "joshrotenberg",
             "repo": "tower-mcp",
             "stars": 9
@@ -864,10 +864,10 @@
             "archived": false,
             "id": 342259394,
             "language": "Rust",
-            "last_commit": "2026-08-19T10:11:19Z",
+            "last_commit": "2026-08-19T15:59:17Z",
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3359
+            "stars": 3360
           }
         },
         {
@@ -1197,7 +1197,7 @@
             "last_commit": "2023-02-04T00:33:50Z",
             "owner": "DavidS",
             "repo": "circleci-hook",
-            "stars": 7
+            "stars": 8
           }
         },
         {
@@ -1301,7 +1301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:24:11.537Z",
+    "last_updated": "2026-08-20T04:22:04.999Z",
     "original_repository": "szabgab/awesome-axum",
     "original_repository_id": 1223258168,
     "original_repository_sha": "69a2c7275df1435c44380d47c7758fe62f40f5bf",
