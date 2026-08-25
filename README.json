@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T06:17:33Z",
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9091
+            "stars": 9095
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 612811519,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:35:42Z",
+            "last_commit": "2026-08-24T21:58:51Z",
             "owner": "Totodore",
             "repo": "socketioxide",
             "stars": 1622
@@ -90,7 +90,7 @@
             "last_commit": "2026-01-20T00:02:20Z",
             "owner": "robertwayne",
             "repo": "axum-htmx",
-            "stars": 271
+            "stars": 272
           }
         },
         {
@@ -237,7 +237,7 @@
             "archived": false,
             "id": 519310583,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:38:09Z",
+            "last_commit": "2026-08-24T18:46:49Z",
             "owner": "abdolence",
             "repo": "axum-streams-rs",
             "stars": 88
@@ -591,7 +591,7 @@
             "last_commit": "2026-08-17T14:31:45Z",
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 840
+            "stars": 841
           }
         },
         {
@@ -864,7 +864,7 @@
             "archived": false,
             "id": 342259394,
             "language": "Rust",
-            "last_commit": "2026-08-24T12:14:00Z",
+            "last_commit": "2026-08-24T16:54:55Z",
             "owner": "svix",
             "repo": "svix-webhooks",
             "stars": 3366
@@ -1301,7 +1301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:43:47.436Z",
+    "last_updated": "2026-08-25T04:24:25.343Z",
     "original_repository": "szabgab/awesome-axum",
     "original_repository_id": 1223258168,
     "original_repository_sha": "69a2c7275df1435c44380d47c7758fe62f40f5bf",
