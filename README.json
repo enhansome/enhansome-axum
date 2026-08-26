@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T06:17:33Z",
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9095
+            "stars": 9101
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2026-03-25T05:39:57Z",
             "owner": "roapi",
             "repo": "roapi",
-            "stars": 3418
+            "stars": 3420
           }
         },
         {
@@ -588,7 +588,7 @@
             "archived": false,
             "id": 497728416,
             "language": "Rust",
-            "last_commit": "2026-08-17T14:31:45Z",
+            "last_commit": "2026-08-25T11:16:05Z",
             "owner": "matze",
             "repo": "wastebin",
             "stars": 841
@@ -618,7 +618,7 @@
             "archived": false,
             "id": 441299511,
             "language": "Rust",
-            "last_commit": "2026-08-23T05:12:53Z",
+            "last_commit": "2026-08-25T15:49:12Z",
             "owner": "reductstore",
             "repo": "reductstore",
             "stars": 368
@@ -681,7 +681,7 @@
             "last_commit": "2026-07-22T02:13:23Z",
             "owner": "chelunfu",
             "repo": "qiluo_admin",
-            "stars": 234
+            "stars": 235
           }
         },
         {
@@ -696,7 +696,7 @@
             "last_commit": "2025-10-01T19:04:44Z",
             "owner": "w4",
             "repo": "rgit",
-            "stars": 209
+            "stars": 210
           }
         },
         {
@@ -738,7 +738,7 @@
             "archived": false,
             "id": 1188570818,
             "language": "Rust",
-            "last_commit": "2026-08-19T11:38:56Z",
+            "last_commit": "2026-08-25T15:11:21Z",
             "owner": "keycompute",
             "repo": "keycompute",
             "stars": 181
@@ -843,7 +843,7 @@
             "archived": false,
             "id": 1021129025,
             "language": "Rust",
-            "last_commit": "2026-08-18T14:24:12Z",
+            "last_commit": "2026-08-25T14:25:12Z",
             "owner": "xidl",
             "repo": "xidl",
             "stars": 9
@@ -864,10 +864,10 @@
             "archived": false,
             "id": 342259394,
             "language": "Rust",
-            "last_commit": "2026-08-24T16:54:55Z",
+            "last_commit": "2026-08-26T00:55:50Z",
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3367
+            "stars": 3369
           }
         },
         {
@@ -882,7 +882,7 @@
             "last_commit": "2023-12-30T06:13:14Z",
             "owner": "launchbadge",
             "repo": "realworld-axum-sqlx",
-            "stars": 1102
+            "stars": 1103
           }
         },
         {
@@ -1301,7 +1301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:32:02.064Z",
+    "last_updated": "2026-08-26T04:25:01.625Z",
     "original_repository": "szabgab/awesome-axum",
     "original_repository_id": 1223258168,
     "original_repository_sha": "69a2c7275df1435c44380d47c7758fe62f40f5bf",
