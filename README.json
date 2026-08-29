@@ -991,7 +991,7 @@
             "open_issues": 18,
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 843,
+            "stars": 844,
             "topics": [
               "axum",
               "pastebin",
@@ -1075,8 +1075,8 @@
             "id": 965498420,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-01T06:34:33Z",
-            "open_issues": 25,
+            "last_commit": "2026-08-29T06:47:07Z",
+            "open_issues": 23,
             "owner": "rikhuijzer",
             "repo": "fx",
             "stars": 325,
@@ -1488,7 +1488,7 @@
             "open_issues": 61,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3374,
+            "stars": 3375,
             "topics": [
               "api",
               "background-jobs",
@@ -2126,7 +2126,7 @@
             "id": 342960744,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-15T08:14:54Z",
+            "last_commit": "2026-08-29T06:38:53Z",
             "open_issues": 8,
             "owner": "stchris",
             "repo": "randoku",
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:57:38.707Z",
+    "last_updated": "2026-08-29T10:26:09.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
