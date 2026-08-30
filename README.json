@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9102,
+            "stars": 9104,
             "topics": [
               "api",
               "axum",
@@ -41,7 +41,7 @@
             "id": 612811519,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-24T21:58:51Z",
+            "last_commit": "2026-08-30T00:19:02Z",
             "open_issues": 13,
             "owner": "Totodore",
             "repo": "socketioxide",
@@ -97,7 +97,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-08-28T07:59:36Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "summer-rs",
             "repo": "summer-rs",
             "stars": 997,
@@ -307,8 +307,8 @@
             "id": 1071877745,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-23T18:44:08Z",
-            "open_issues": 0,
+            "last_commit": "2026-08-29T23:33:53Z",
+            "open_issues": 10,
             "owner": "joshrotenberg",
             "repo": "tower-resilience",
             "stars": 102,
@@ -991,7 +991,7 @@
             "open_issues": 18,
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 844,
+            "stars": 847,
             "topics": [
               "axum",
               "pastebin",
@@ -1038,8 +1038,8 @@
             "id": 441299511,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T15:11:41Z",
-            "open_issues": 17,
+            "last_commit": "2026-08-30T05:13:16Z",
+            "open_issues": 19,
             "owner": "reductstore",
             "repo": "reductstore",
             "stars": 368,
@@ -1191,7 +1191,7 @@
             "open_issues": 34,
             "owner": "w4",
             "repo": "rgit",
-            "stars": 210,
+            "stars": 211,
             "topics": [
               "git",
               "rust",
@@ -1275,7 +1275,7 @@
             "open_issues": 1,
             "owner": "keycompute",
             "repo": "keycompute",
-            "stars": 181,
+            "stars": 182,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -1485,10 +1485,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-08-28T16:51:48Z",
-            "open_issues": 61,
+            "open_issues": 66,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3375,
+            "stars": 3376,
             "topics": [
               "api",
               "background-jobs",
@@ -1529,7 +1529,7 @@
             "open_issues": 14,
             "owner": "launchbadge",
             "repo": "realworld-axum-sqlx",
-            "stars": 1104,
+            "stars": 1105,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T10:26:09.991Z",
+    "last_updated": "2026-08-30T09:28:50.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
