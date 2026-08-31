@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9104,
+            "stars": 9107,
             "topics": [
               "api",
               "axum",
@@ -490,7 +490,7 @@
             "id": 606069662,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-18T14:24:49Z",
+            "last_commit": "2026-08-30T19:38:01Z",
             "open_issues": 17,
             "owner": "lpotthast",
             "repo": "axum-keycloak-auth",
@@ -991,7 +991,7 @@
             "open_issues": 18,
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 847,
+            "stars": 848,
             "topics": [
               "axum",
               "pastebin",
@@ -1038,7 +1038,7 @@
             "id": 441299511,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T05:13:16Z",
+            "last_commit": "2026-08-31T06:36:25Z",
             "open_issues": 19,
             "owner": "reductstore",
             "repo": "reductstore",
@@ -1100,8 +1100,8 @@
             "id": 505955104,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-24T07:42:41Z",
-            "open_issues": 12,
+            "last_commit": "2026-08-31T07:42:31Z",
+            "open_issues": 13,
             "owner": "freedit-org",
             "repo": "freedit",
             "stars": 313,
@@ -1292,8 +1292,8 @@
             "id": 448045451,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-21T16:15:48Z",
-            "open_issues": 26,
+            "last_commit": "2026-08-31T08:34:37Z",
+            "open_issues": 25,
             "owner": "cncf",
             "repo": "clomonitor",
             "stars": 148,
@@ -1488,7 +1488,7 @@
             "open_issues": 66,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3376,
+            "stars": 3377,
             "topics": [
               "api",
               "background-jobs",
@@ -2207,7 +2207,7 @@
             "open_issues": 0,
             "owner": "joelparkerhenderson",
             "repo": "demo-rust-axum",
-            "stars": 440,
+            "stars": 441,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T09:28:50.559Z",
+    "last_updated": "2026-08-31T10:06:35.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
