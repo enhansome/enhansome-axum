@@ -45,7 +45,7 @@
             "open_issues": 13,
             "owner": "Totodore",
             "repo": "socketioxide",
-            "stars": 1623,
+            "stars": 1625,
             "topics": [
               "axum",
               "hyper",
@@ -73,7 +73,7 @@
             "open_issues": 8,
             "owner": "zino-rs",
             "repo": "zino",
-            "stars": 1145,
+            "stars": 1146,
             "topics": [
               "asynchronous",
               "http",
@@ -100,7 +100,7 @@
             "open_issues": 26,
             "owner": "summer-rs",
             "repo": "summer-rs",
-            "stars": 997,
+            "stars": 998,
             "topics": [
               "axum",
               "cron-job",
@@ -556,10 +556,10 @@
             "description": "Rendering is a protocol, not a render-time computation.",
             "homepage": "https://seamjs.com",
             "id": 1144721873,
-            "language": "TypeScript",
+            "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-03T17:40:58Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-01T05:25:02Z",
+            "open_issues": 0,
             "owner": "canmi21",
             "repo": "seam",
             "stars": 40,
@@ -567,7 +567,7 @@
               "codegen",
               "ctr",
               "injection",
-              "procedure",
+              "lowering",
               "protocol",
               "skeleton"
             ]
@@ -1038,8 +1038,8 @@
             "id": 441299511,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T06:36:25Z",
-            "open_issues": 19,
+            "last_commit": "2026-08-31T12:04:50Z",
+            "open_issues": 18,
             "owner": "reductstore",
             "repo": "reductstore",
             "stars": 368,
@@ -1075,8 +1075,8 @@
             "id": 965498420,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-29T06:47:07Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-01T06:37:12Z",
+            "open_issues": 24,
             "owner": "rikhuijzer",
             "repo": "fx",
             "stars": 325,
@@ -1157,7 +1157,7 @@
             "open_issues": 1,
             "owner": "chelunfu",
             "repo": "qiluo_admin",
-            "stars": 235,
+            "stars": 236,
             "topics": [
               "admin-dashboard",
               "ai-admin",
@@ -1484,11 +1484,11 @@
             "id": 342259394,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-28T16:51:48Z",
-            "open_issues": 66,
+            "last_commit": "2026-08-31T23:57:18Z",
+            "open_issues": 61,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3377,
+            "stars": 3378,
             "topics": [
               "api",
               "background-jobs",
@@ -1529,7 +1529,7 @@
             "open_issues": 14,
             "owner": "launchbadge",
             "repo": "realworld-axum-sqlx",
-            "stars": 1105,
+            "stars": 1106,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T10:06:35.195Z",
+    "last_updated": "2026-09-01T08:55:20.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
