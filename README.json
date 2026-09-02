@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9107,
+            "stars": 9109,
             "topics": [
               "api",
               "axum",
@@ -41,7 +41,7 @@
             "id": 612811519,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-30T00:19:02Z",
+            "last_commit": "2026-09-01T20:34:54Z",
             "open_issues": 13,
             "owner": "Totodore",
             "repo": "socketioxide",
@@ -548,34 +548,6 @@
         },
         {
           "node_type": "item",
-          "title": "seamjs",
-          "description": "Compile-time rendering framework where UI Stack (e.g. React...) pages are pre-rendered at build time and Axum serves them via Rust-native HTML slot injection (~1ms/page), with typed RPC procedures codegen'd from a shared manifest. (Added on 2026.04.27)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Rendering is a protocol, not a render-time computation.",
-            "homepage": "https://seamjs.com",
-            "id": 1144721873,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-09-01T05:25:02Z",
-            "open_issues": 0,
-            "owner": "canmi21",
-            "repo": "seam",
-            "stars": 40,
-            "topics": [
-              "codegen",
-              "ctr",
-              "injection",
-              "lowering",
-              "protocol",
-              "skeleton"
-            ]
-          },
-          "first_seen": "2026-08-28T15:41:18.884Z"
-        },
-        {
-          "node_type": "item",
           "title": "axum-otel-metrics",
           "description": "A axum OpenTelemetry Metrics middleware with prometheus exporter supported.",
           "children": [],
@@ -590,7 +562,7 @@
             "open_issues": 1,
             "owner": "ttys3",
             "repo": "axum-otel-metrics",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "axum",
               "axum-middleware",
@@ -599,6 +571,34 @@
               "middleware",
               "opentelemetry",
               "prometheus"
+            ]
+          },
+          "first_seen": "2026-08-28T15:41:18.884Z"
+        },
+        {
+          "node_type": "item",
+          "title": "seamjs",
+          "description": "Compile-time rendering framework where UI Stack (e.g. React...) pages are pre-rendered at build time and Axum serves them via Rust-native HTML slot injection (~1ms/page), with typed RPC procedures codegen'd from a shared manifest. (Added on 2026.04.27)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Rendering is a protocol, not a render-time computation.",
+            "homepage": "https://seamjs.com",
+            "id": 1144721873,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-09-02T06:05:41Z",
+            "open_issues": 0,
+            "owner": "canmi21",
+            "repo": "seam",
+            "stars": 40,
+            "topics": [
+              "codegen",
+              "ctr",
+              "injection",
+              "lowering",
+              "protocol",
+              "skeleton"
             ]
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -991,7 +991,7 @@
             "open_issues": 18,
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 848,
+            "stars": 849,
             "topics": [
               "axum",
               "pastebin",
@@ -1448,8 +1448,8 @@
             "id": 1021129025,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-26T08:23:17Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-01T14:31:20Z",
+            "open_issues": 1,
             "owner": "xidl",
             "repo": "xidl",
             "stars": 9,
@@ -1484,11 +1484,11 @@
             "id": 342259394,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-31T23:57:18Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-02T07:40:16Z",
+            "open_issues": 63,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3378,
+            "stars": 3381,
             "topics": [
               "api",
               "background-jobs",
@@ -1529,7 +1529,7 @@
             "open_issues": 14,
             "owner": "launchbadge",
             "repo": "realworld-axum-sqlx",
-            "stars": 1106,
+            "stars": 1105,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -2207,7 +2207,7 @@
             "open_issues": 0,
             "owner": "joelparkerhenderson",
             "repo": "demo-rust-axum",
-            "stars": 441,
+            "stars": 442,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T08:55:20.409Z",
+    "last_updated": "2026-09-02T08:09:04.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
