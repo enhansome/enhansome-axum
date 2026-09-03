@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9109,
+            "stars": 9114,
             "topics": [
               "api",
               "axum",
@@ -100,7 +100,7 @@
             "open_issues": 26,
             "owner": "summer-rs",
             "repo": "summer-rs",
-            "stars": 998,
+            "stars": 999,
             "topics": [
               "axum",
               "cron-job",
@@ -392,7 +392,7 @@
             "open_issues": 10,
             "owner": "Ptrskay3",
             "repo": "axum-prometheus",
-            "stars": 91,
+            "stars": 92,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -585,9 +585,9 @@
             "description": "Rendering is a protocol, not a render-time computation.",
             "homepage": "https://seamjs.com",
             "id": 1144721873,
-            "language": "Rust",
+            "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T06:05:41Z",
+            "last_commit": "2026-09-03T04:48:48Z",
             "open_issues": 0,
             "owner": "canmi21",
             "repo": "seam",
@@ -951,7 +951,7 @@
             "open_issues": 66,
             "owner": "roapi",
             "repo": "roapi",
-            "stars": 3428,
+            "stars": 3429,
             "topics": [
               "analytics",
               "arrow",
@@ -991,7 +991,7 @@
             "open_issues": 18,
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 849,
+            "stars": 850,
             "topics": [
               "axum",
               "pastebin",
@@ -1275,7 +1275,7 @@
             "open_issues": 1,
             "owner": "keycompute",
             "repo": "keycompute",
-            "stars": 182,
+            "stars": 183,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -1293,10 +1293,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T08:34:37Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "cncf",
             "repo": "clomonitor",
-            "stars": 148,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -1317,7 +1317,7 @@
             "open_issues": 0,
             "owner": "sheroz",
             "repo": "axum-rest-api-sample",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "api",
               "api-rest",
@@ -1484,11 +1484,11 @@
             "id": 342259394,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-02T07:40:16Z",
-            "open_issues": 63,
+            "last_commit": "2026-09-03T00:27:36Z",
+            "open_issues": 59,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3381,
+            "stars": 3384,
             "topics": [
               "api",
               "background-jobs",
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:09:04.386Z",
+    "last_updated": "2026-09-03T08:18:13.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
