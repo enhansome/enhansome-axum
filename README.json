@@ -41,7 +41,7 @@
             "id": 612811519,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-01T20:34:54Z",
+            "last_commit": "2026-09-06T18:55:06Z",
             "open_issues": 13,
             "owner": "Totodore",
             "repo": "socketioxide",
@@ -991,7 +991,7 @@
             "open_issues": 19,
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 850,
+            "stars": 852,
             "topics": [
               "axum",
               "pastebin",
@@ -1100,8 +1100,8 @@
             "id": 505955104,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-31T07:42:31Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-07T07:42:54Z",
+            "open_issues": 15,
             "owner": "freedit-org",
             "repo": "freedit",
             "stars": 313,
@@ -1271,11 +1271,11 @@
             "id": 1188570818,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-29T01:46:31Z",
+            "last_commit": "2026-09-07T06:27:20Z",
             "open_issues": 1,
             "owner": "keycompute",
             "repo": "keycompute",
-            "stars": 183,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -1488,7 +1488,7 @@
             "open_issues": 61,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3388,
+            "stars": 3391,
             "topics": [
               "api",
               "background-jobs",
@@ -1609,7 +1609,7 @@
             "open_issues": 10,
             "owner": "importantimport",
             "repo": "hatsu",
-            "stars": 258,
+            "stars": 259,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -1718,8 +1718,8 @@
             "id": 492033539,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-26T20:25:44Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-07T07:32:48Z",
+            "open_issues": 11,
             "owner": "benhansen-io",
             "repo": "pinging",
             "stars": 100,
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:08:07.973Z",
+    "last_updated": "2026-09-07T08:38:56.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
