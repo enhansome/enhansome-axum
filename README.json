@@ -15,11 +15,11 @@
             "id": 715493447,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T06:36:59Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-10T00:06:33Z",
+            "open_issues": 17,
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9126,
+            "stars": 9130,
             "topics": [
               "api",
               "axum",
@@ -45,7 +45,7 @@
             "open_issues": 13,
             "owner": "Totodore",
             "repo": "socketioxide",
-            "stars": 1625,
+            "stars": 1626,
             "topics": [
               "axum",
               "hyper",
@@ -69,11 +69,11 @@
             "id": 583190364,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-04T02:48:38Z",
+            "last_commit": "2026-09-10T06:23:26Z",
             "open_issues": 8,
             "owner": "zino-rs",
             "repo": "zino",
-            "stars": 1148,
+            "stars": 1149,
             "topics": [
               "asynchronous",
               "http",
@@ -558,7 +558,7 @@
             "id": 1144721873,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T06:21:27Z",
+            "last_commit": "2026-09-10T05:06:48Z",
             "open_issues": 0,
             "owner": "canmi21",
             "repo": "seam",
@@ -721,7 +721,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-08T08:31:58Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "mattiapenati",
             "repo": "tower-otel",
             "stars": 14,
@@ -1177,6 +1177,27 @@
         },
         {
           "node_type": "item",
+          "title": "KeyCompute",
+          "description": "KeyCompute is a high-performance, scalable, and ready-to-use AI computing power service platform. (axum 0.8; added on 2026.04.27)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "KeyCompute is a high-performance, scalable, and ready-to-use AI computing power service platform. KeyCompute 是新一代高性能，易拓展，开箱即用的 AI Token 算力租赁与聚合服务平台。",
+            "homepage": "https://keycompute.cn",
+            "id": 1188570818,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-09-10T02:41:07Z",
+            "open_issues": 1,
+            "owner": "keycompute",
+            "repo": "keycompute",
+            "stars": 218,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:41:18.884Z"
+        },
+        {
+          "node_type": "item",
           "title": "rgit",
           "description": "A blazingly fast Git repository browser, compatible with- and heavily inspired by cgit. (axum 0.8)",
           "children": [],
@@ -1202,27 +1223,6 @@
         },
         {
           "node_type": "item",
-          "title": "KeyCompute",
-          "description": "KeyCompute is a high-performance, scalable, and ready-to-use AI computing power service platform. (axum 0.8; added on 2026.04.27)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "KeyCompute is a high-performance, scalable, and ready-to-use AI computing power service platform. KeyCompute 是新一代高性能，易拓展，开箱即用的 AI Token 算力租赁与聚合服务平台。",
-            "homepage": "https://keycompute.cn",
-            "id": 1188570818,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-09-08T15:56:40Z",
-            "open_issues": 1,
-            "owner": "keycompute",
-            "repo": "keycompute",
-            "stars": 206,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:41:18.884Z"
-        },
-        {
-          "node_type": "item",
           "title": "clean_axum_demo",
           "description": "A modern, clean-architecture Rust API server template built with Axum and SQLx. It incorporates domain-driven design, repository patterns, JWT authentication, file uploads, Swagger documentation, OpenTelemetry. (axum 0.8.3)",
           "children": [],
@@ -1237,7 +1237,7 @@
             "open_issues": 0,
             "owner": "sukjaelee",
             "repo": "clean_axum_demo",
-            "stars": 202,
+            "stars": 203,
             "topics": [
               "axum",
               "demo",
@@ -1350,7 +1350,7 @@
             "open_issues": 0,
             "owner": "aiqubits",
             "repo": "webshelf",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -1484,11 +1484,11 @@
             "id": 342259394,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-09T08:19:47Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-09T20:29:22Z",
+            "open_issues": 58,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3392,
+            "stars": 3395,
             "topics": [
               "api",
               "background-jobs",
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:23:36.499Z",
+    "last_updated": "2026-09-10T08:25:10.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
