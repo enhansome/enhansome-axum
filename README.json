@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T00:06:33Z",
-            "open_issues": 17,
+            "open_issues": 19,
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9137,
+            "stars": 9138,
             "topics": [
               "api",
               "axum",
@@ -134,7 +134,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-08-05T14:47:45Z",
-            "open_issues": 3,
+            "open_issues": 5,
             "owner": "maxcountryman",
             "repo": "tower-sessions",
             "stars": 421,
@@ -164,7 +164,7 @@
             "open_issues": 11,
             "owner": "robertwayne",
             "repo": "axum-htmx",
-            "stars": 272,
+            "stars": 273,
             "topics": [
               "axum",
               "htmx"
@@ -307,11 +307,11 @@
             "id": 1071877745,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T23:33:53Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-13T03:22:54Z",
+            "open_issues": 0,
             "owner": "joshrotenberg",
             "repo": "tower-resilience",
-            "stars": 102,
+            "stars": 104,
             "topics": [
               "resilience",
               "tokio",
@@ -661,7 +661,7 @@
             "open_issues": 0,
             "owner": "danielkov",
             "repo": "rust-helmet",
-            "stars": 22,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -1187,7 +1187,7 @@
             "id": 1188570818,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-10T10:48:01Z",
+            "last_commit": "2026-09-13T05:04:13Z",
             "open_issues": 1,
             "owner": "keycompute",
             "repo": "keycompute",
@@ -1485,10 +1485,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-11T19:39:17Z",
-            "open_issues": 60,
+            "open_issues": 63,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3399,
+            "stars": 3401,
             "topics": [
               "api",
               "background-jobs",
@@ -1609,7 +1609,7 @@
             "open_issues": 10,
             "owner": "importantimport",
             "repo": "hatsu",
-            "stars": 258,
+            "stars": 259,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -2126,7 +2126,7 @@
             "id": 342960744,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T20:26:21Z",
+            "last_commit": "2026-09-12T20:16:11Z",
             "open_issues": 8,
             "owner": "stchris",
             "repo": "randoku",
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:08:48.798Z",
+    "last_updated": "2026-09-13T08:33:31.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
