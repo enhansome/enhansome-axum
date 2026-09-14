@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9138,
+            "stars": 9143,
             "topics": [
               "api",
               "axum",
@@ -97,10 +97,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-04T07:06:04Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "summer-rs",
             "repo": "summer-rs",
-            "stars": 1002,
+            "stars": 1003,
             "topics": [
               "axum",
               "cron-job",
@@ -720,8 +720,8 @@
             "id": 720776590,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T18:19:02Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-14T05:19:16Z",
+            "open_issues": 3,
             "owner": "mattiapenati",
             "repo": "tower-otel",
             "stars": 14,
@@ -1100,8 +1100,8 @@
             "id": 505955104,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-07T07:42:54Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-14T07:43:26Z",
+            "open_issues": 16,
             "owner": "freedit-org",
             "repo": "freedit",
             "stars": 313,
@@ -1187,7 +1187,7 @@
             "id": 1188570818,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-13T05:04:13Z",
+            "last_commit": "2026-09-14T05:19:03Z",
             "open_issues": 1,
             "owner": "keycompute",
             "repo": "keycompute",
@@ -1488,7 +1488,7 @@
             "open_issues": 63,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3401,
+            "stars": 3402,
             "topics": [
               "api",
               "background-jobs",
@@ -1609,7 +1609,7 @@
             "open_issues": 10,
             "owner": "importantimport",
             "repo": "hatsu",
-            "stars": 259,
+            "stars": 258,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -2207,7 +2207,7 @@
             "open_issues": 0,
             "owner": "joelparkerhenderson",
             "repo": "demo-rust-axum",
-            "stars": 445,
+            "stars": 447,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T08:33:31.332Z",
+    "last_updated": "2026-09-14T09:16:25.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
