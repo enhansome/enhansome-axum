@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-16T08:07:59Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9147,
+            "stars": 9148,
             "topics": [
               "api",
               "axum",
@@ -100,7 +100,7 @@
             "open_issues": 27,
             "owner": "summer-rs",
             "repo": "summer-rs",
-            "stars": 1005,
+            "stars": 1006,
             "topics": [
               "axum",
               "cron-job",
@@ -137,7 +137,7 @@
             "open_issues": 4,
             "owner": "maxcountryman",
             "repo": "tower-sessions",
-            "stars": 422,
+            "stars": 423,
             "topics": [
               "axum",
               "axum-middleware",
@@ -720,8 +720,8 @@
             "id": 720776590,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T05:19:16Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-16T20:57:30Z",
+            "open_issues": 4,
             "owner": "mattiapenati",
             "repo": "tower-otel",
             "stars": 14,
@@ -991,7 +991,7 @@
             "open_issues": 19,
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 854,
+            "stars": 856,
             "topics": [
               "axum",
               "pastebin",
@@ -1157,7 +1157,7 @@
             "open_issues": 1,
             "owner": "chelunfu",
             "repo": "qiluo_admin",
-            "stars": 237,
+            "stars": 238,
             "topics": [
               "admin-dashboard",
               "ai-admin",
@@ -1292,7 +1292,7 @@
             "id": 448045451,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T15:49:45Z",
+            "last_commit": "2026-09-16T15:31:28Z",
             "open_issues": 26,
             "owner": "cncf",
             "repo": "clomonitor",
@@ -1420,7 +1420,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-14T19:16:10Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "joshrotenberg",
             "repo": "tower-mcp",
             "stars": 10,
@@ -1484,11 +1484,11 @@
             "id": 342259394,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-16T07:34:55Z",
+            "last_commit": "2026-09-17T08:13:46Z",
             "open_issues": 64,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3404,
+            "stars": 3405,
             "topics": [
               "api",
               "background-jobs",
@@ -1529,7 +1529,7 @@
             "open_issues": 14,
             "owner": "launchbadge",
             "repo": "realworld-axum-sqlx",
-            "stars": 1105,
+            "stars": 1106,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T08:51:24.534Z",
+    "last_updated": "2026-09-17T08:55:40.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
