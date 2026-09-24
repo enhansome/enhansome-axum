@@ -15,11 +15,11 @@
             "id": 715493447,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T08:00:59Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-24T06:22:26Z",
+            "open_issues": 14,
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9171,
+            "stars": 9201,
             "topics": [
               "api",
               "axum",
@@ -41,11 +41,11 @@
             "id": 612811519,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-19T22:11:20Z",
+            "last_commit": "2026-09-24T08:40:28Z",
             "open_issues": 14,
             "owner": "Totodore",
             "repo": "socketioxide",
-            "stars": 1629,
+            "stars": 1628,
             "topics": [
               "axum",
               "hyper",
@@ -69,11 +69,11 @@
             "id": 583190364,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-18T02:23:22Z",
+            "last_commit": "2026-09-23T08:52:51Z",
             "open_issues": 8,
             "owner": "zino-rs",
             "repo": "zino",
-            "stars": 1150,
+            "stars": 1152,
             "topics": [
               "asynchronous",
               "http",
@@ -161,7 +161,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-01-20T00:02:20Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "robertwayne",
             "repo": "axum-htmx",
             "stars": 272,
@@ -409,8 +409,8 @@
             "id": 519310583,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T22:17:27Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-23T09:16:22Z",
+            "open_issues": 1,
             "owner": "abdolence",
             "repo": "axum-streams-rs",
             "stars": 88,
@@ -558,7 +558,7 @@
             "id": 1144721873,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T07:16:51Z",
+            "last_commit": "2026-09-24T07:00:45Z",
             "open_issues": 0,
             "owner": "canmi21",
             "repo": "seam",
@@ -619,7 +619,7 @@
             "open_issues": 0,
             "owner": "gongzhengyang",
             "repo": "axum-restful",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -1038,8 +1038,8 @@
             "id": 441299511,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T07:39:48Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-23T12:52:41Z",
+            "open_issues": 10,
             "owner": "reductstore",
             "repo": "reductstore",
             "stars": 371,
@@ -1079,7 +1079,7 @@
             "open_issues": 19,
             "owner": "rikhuijzer",
             "repo": "fx",
-            "stars": 325,
+            "stars": 326,
             "topics": [
               "blog-engine",
               "cms",
@@ -1131,7 +1131,7 @@
             "open_issues": 8,
             "owner": "lingdu1234",
             "repo": "axum_admin",
-            "stars": 310,
+            "stars": 311,
             "topics": [
               "admin",
               "admin-dashboard",
@@ -1187,11 +1187,11 @@
             "id": 1188570818,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-23T07:58:27Z",
+            "last_commit": "2026-09-24T02:58:41Z",
             "open_issues": 1,
             "owner": "keycompute",
             "repo": "keycompute",
-            "stars": 218,
+            "stars": 219,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -1262,7 +1262,7 @@
             "open_issues": 3,
             "owner": "robatipoor",
             "repo": "rustfulapi",
-            "stars": 198,
+            "stars": 199,
             "topics": [
               "api",
               "axum",
@@ -1296,7 +1296,7 @@
             "open_issues": 25,
             "owner": "cncf",
             "repo": "clomonitor",
-            "stars": 149,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -1484,11 +1484,11 @@
             "id": 342259394,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-23T08:11:38Z",
-            "open_issues": 59,
+            "last_commit": "2026-09-23T13:27:28Z",
+            "open_issues": 57,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3418,
+            "stars": 3419,
             "topics": [
               "api",
               "background-jobs",
@@ -1529,7 +1529,7 @@
             "open_issues": 14,
             "owner": "launchbadge",
             "repo": "realworld-axum-sqlx",
-            "stars": 1106,
+            "stars": 1107,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -1550,7 +1550,7 @@
             "open_issues": 18,
             "owner": "ndelvalle",
             "repo": "rustapi",
-            "stars": 547,
+            "stars": 548,
             "topics": [
               "api",
               "axum",
@@ -1609,7 +1609,7 @@
             "open_issues": 10,
             "owner": "importantimport",
             "repo": "hatsu",
-            "stars": 258,
+            "stars": 259,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -2207,7 +2207,7 @@
             "open_issues": 0,
             "owner": "joelparkerhenderson",
             "repo": "demo-rust-axum",
-            "stars": 446,
+            "stars": 447,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T08:50:45.184Z",
+    "last_updated": "2026-09-24T08:46:07.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
