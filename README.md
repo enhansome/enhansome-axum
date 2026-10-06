@@ -94,7 +94,7 @@ Probably the best way to learn how to use axum is by looking at projects that ar
 * [ROAPI](https://github.com/roapi/roapi) ⭐ 3,434 | 🐛 66 | 🌐 Rust | 📅 2026-03-25: Create full-fledged APIs for static datasets without writing a single line of code. (axum 0.8)
 * [wastebin](https://github.com/matze/wastebin) ⭐ 866 | 🐛 20 | 🌐 Rust | 📅 2026-10-06: A minimalist pastebin service. (axum 0.8)
 * [turbo.fish](https://turbo.fish/) ([repository](https://github.com/jplatte/turbo.fish) ⚠️ Archived): Find out for yourself 😉 (archived; axum 0.8.1)
-* [ReductStore](https://github.com/reductstore/reductstore) ⭐ 373 | 🐛 17 | 🌐 Rust | 📅 2026-10-06: A time series database for storing and managing large amounts of blob data. (axum 0.8.7)
+* [ReductStore](https://github.com/reductstore/reductstore) ⭐ 373 | 🐛 18 | 🌐 Rust | 📅 2026-10-06: A time series database for storing and managing large amounts of blob data. (axum 0.8.7)
 * [fx](https://github.com/rikhuijzer/fx) ⭐ 325 | 🐛 18 | 🌐 Rust | 📅 2026-10-05: A (micro)blogging server that you can self-host. (axum 0.8)
 * [freedit](https://github.com/freedit-org/freedit) ⭐ 317 | 🐛 16 | 🌐 Rust | 📅 2026-09-14: A forum powered by rust. (axum 0.8.7)
 * [axum\_admin](https://github.com/lingdu1234/axum_admin) ⭐ 311 | 🐛 8 | 🌐 Rust | 📅 2026-06-24: An admin panel built with **axum**, Sea-orm and Vue 3. (axum 0.8.8)
