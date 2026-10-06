@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9393,
+            "stars": 9398,
             "topics": [
               "api",
               "axum",
@@ -69,7 +69,7 @@
             "id": 583190364,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-04T09:16:53Z",
+            "last_commit": "2026-10-06T06:15:56Z",
             "open_issues": 8,
             "owner": "zino-rs",
             "repo": "zino",
@@ -468,7 +468,7 @@
             "open_issues": 0,
             "owner": "janos-r",
             "repo": "axum-template",
-            "stars": 69,
+            "stars": 68,
             "topics": [
               "axum",
               "graphql",
@@ -490,7 +490,7 @@
             "id": 606069662,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T19:38:01Z",
+            "last_commit": "2026-10-06T07:11:49Z",
             "open_issues": 17,
             "owner": "lpotthast",
             "repo": "axum-keycloak-auth",
@@ -987,11 +987,11 @@
             "id": 497728416,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T18:06:55Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-06T09:07:37Z",
+            "open_issues": 20,
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 867,
+            "stars": 866,
             "topics": [
               "axum",
               "pastebin",
@@ -1038,8 +1038,8 @@
             "id": 441299511,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T05:12:36Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-06T08:06:08Z",
+            "open_issues": 17,
             "owner": "reductstore",
             "repo": "reductstore",
             "stars": 373,
@@ -1296,7 +1296,7 @@
             "open_issues": 31,
             "owner": "cncf",
             "repo": "clomonitor",
-            "stars": 149,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -1484,11 +1484,11 @@
             "id": 342259394,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-05T10:20:39Z",
+            "last_commit": "2026-10-06T09:14:14Z",
             "open_issues": 62,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3429,
+            "stars": 3435,
             "topics": [
               "api",
               "background-jobs",
@@ -1529,7 +1529,7 @@
             "open_issues": 14,
             "owner": "launchbadge",
             "repo": "realworld-axum-sqlx",
-            "stars": 1107,
+            "stars": 1108,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T10:52:26.876Z",
+    "last_updated": "2026-10-06T10:43:32.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
