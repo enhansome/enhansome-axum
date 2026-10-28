@@ -15,11 +15,11 @@
             "id": 715493447,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T08:08:14Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-27T11:17:29Z",
+            "open_issues": 28,
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9528,
+            "stars": 9538,
             "topics": [
               "api",
               "axum",
@@ -73,7 +73,7 @@
             "open_issues": 8,
             "owner": "zino-rs",
             "repo": "zino",
-            "stars": 1154,
+            "stars": 1155,
             "topics": [
               "asynchronous",
               "http",
@@ -100,7 +100,7 @@
             "open_issues": 26,
             "owner": "summer-rs",
             "repo": "summer-rs",
-            "stars": 1025,
+            "stars": 1026,
             "topics": [
               "axum",
               "cron-job",
@@ -948,10 +948,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-03-25T05:39:57Z",
-            "open_issues": 77,
+            "open_issues": 78,
             "owner": "roapi",
             "repo": "roapi",
-            "stars": 3435,
+            "stars": 3434,
             "topics": [
               "analytics",
               "arrow",
@@ -991,7 +991,7 @@
             "open_issues": 28,
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 879,
+            "stars": 880,
             "topics": [
               "axum",
               "pastebin",
@@ -1038,11 +1038,11 @@
             "id": 441299511,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T08:31:43Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-27T23:14:06Z",
+            "open_issues": 14,
             "owner": "reductstore",
             "repo": "reductstore",
-            "stars": 375,
+            "stars": 376,
             "topics": [
               "ai",
               "big-data",
@@ -1079,7 +1079,7 @@
             "open_issues": 12,
             "owner": "rikhuijzer",
             "repo": "bloglite",
-            "stars": 334,
+            "stars": 335,
             "topics": [
               "blog-engine",
               "cms",
@@ -1100,8 +1100,8 @@
             "id": 505955104,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-24T06:05:45Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-27T11:18:30Z",
+            "open_issues": 14,
             "owner": "freedit-org",
             "repo": "freedit",
             "stars": 317,
@@ -1292,8 +1292,8 @@
             "id": 448045451,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T09:06:21Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-28T07:44:19Z",
+            "open_issues": 32,
             "owner": "cncf",
             "repo": "clomonitor",
             "stars": 151,
@@ -1317,7 +1317,7 @@
             "open_issues": 0,
             "owner": "sheroz",
             "repo": "axum-rest-api-sample",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "api",
               "api-rest",
@@ -1448,8 +1448,8 @@
             "id": 1021129025,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T04:03:45Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-28T09:50:23Z",
+            "open_issues": 9,
             "owner": "xidl",
             "repo": "xidl",
             "stars": 10,
@@ -1484,11 +1484,11 @@
             "id": 342259394,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-26T22:38:04Z",
-            "open_issues": 67,
+            "last_commit": "2026-10-28T07:35:35Z",
+            "open_issues": 70,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3465,
+            "stars": 3466,
             "topics": [
               "api",
               "background-jobs",
@@ -1529,7 +1529,7 @@
             "open_issues": 14,
             "owner": "launchbadge",
             "repo": "realworld-axum-sqlx",
-            "stars": 1112,
+            "stars": 1114,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -1550,7 +1550,7 @@
             "open_issues": 18,
             "owner": "ndelvalle",
             "repo": "rustapi",
-            "stars": 548,
+            "stars": 549,
             "topics": [
               "api",
               "axum",
@@ -1785,7 +1785,7 @@
             "open_issues": 1,
             "owner": "lz1998",
             "repo": "axum-book-management",
-            "stars": 64,
+            "stars": 63,
             "topics": [
               "axum",
               "crud",
@@ -1826,6 +1826,37 @@
         },
         {
           "node_type": "item",
+          "title": "openapi-rs",
+          "description": "This project adds a middleware layer to axum using openapi-rs, enabling automatic request validation and processing based on OpenAPI 3.1 specifications. It helps ensure that the server behavior strictly follows the OpenAPI contract. (axum 0.7)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A powerful Rust library for OpenAPI 3.1,3.2 specification parsing, validation, and request handling.",
+            "homepage": null,
+            "id": 935324137,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-22T08:41:17Z",
+            "open_issues": 0,
+            "owner": "baerwang",
+            "repo": "openapi-rs",
+            "stars": 46,
+            "topics": [
+              "actix-web",
+              "api",
+              "apis",
+              "axum",
+              "gateway-api",
+              "openapi",
+              "rust",
+              "validator",
+              "web"
+            ]
+          },
+          "first_seen": "2026-08-28T15:41:18.884Z"
+        },
+        {
+          "node_type": "item",
           "title": "Mini RPS",
           "description": "Mini reverse proxy server, HTTPS, CORS, static file hosting and template engine (minijinja). (axum 0.7.7)",
           "children": [],
@@ -1857,37 +1888,6 @@
               "template",
               "webserver",
               "zero-configuration"
-            ]
-          },
-          "first_seen": "2026-08-28T15:41:18.884Z"
-        },
-        {
-          "node_type": "item",
-          "title": "openapi-rs",
-          "description": "This project adds a middleware layer to axum using openapi-rs, enabling automatic request validation and processing based on OpenAPI 3.1 specifications. It helps ensure that the server behavior strictly follows the OpenAPI contract. (axum 0.7)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A powerful Rust library for OpenAPI 3.1,3.2 specification parsing, validation, and request handling.",
-            "homepage": null,
-            "id": 935324137,
-            "language": "Rust",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-22T08:41:17Z",
-            "open_issues": 0,
-            "owner": "baerwang",
-            "repo": "openapi-rs",
-            "stars": 45,
-            "topics": [
-              "actix-web",
-              "api",
-              "apis",
-              "axum",
-              "gateway-api",
-              "openapi",
-              "rust",
-              "validator",
-              "web"
             ]
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T09:21:44.245Z",
+    "last_updated": "2026-10-28T10:01:58.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
@@ -2254,7 +2254,7 @@
       "open_issues": 2,
       "owner": "szabgab",
       "repo": "awesome-axum",
-      "stars": 110,
+      "stars": 109,
       "topics": [
         "api",
         "awesome",
