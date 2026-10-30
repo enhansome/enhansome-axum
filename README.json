@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-27T11:17:29Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9540,
+            "stars": 9546,
             "topics": [
               "api",
               "axum",
@@ -73,7 +73,7 @@
             "open_issues": 8,
             "owner": "zino-rs",
             "repo": "zino",
-            "stars": 1156,
+            "stars": 1157,
             "topics": [
               "asynchronous",
               "http",
@@ -100,7 +100,7 @@
             "open_issues": 26,
             "owner": "summer-rs",
             "repo": "summer-rs",
-            "stars": 1026,
+            "stars": 1027,
             "topics": [
               "axum",
               "cron-job",
@@ -212,7 +212,7 @@
             "id": 459593698,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-22T15:54:47Z",
+            "last_commit": "2026-10-29T18:43:07Z",
             "open_issues": 3,
             "owner": "AscendingCreations",
             "repo": "AxumSession",
@@ -699,8 +699,8 @@
             "id": 1167706633,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T23:43:19Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-29T23:44:10Z",
+            "open_issues": 4,
             "owner": "centreon",
             "repo": "rs-api-error",
             "stars": 18,
@@ -991,7 +991,7 @@
             "open_issues": 28,
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 880,
+            "stars": 881,
             "topics": [
               "axum",
               "pastebin",
@@ -1104,7 +1104,7 @@
             "open_issues": 12,
             "owner": "freedit-org",
             "repo": "freedit",
-            "stars": 317,
+            "stars": 318,
             "topics": [
               "bbs",
               "forum",
@@ -1157,7 +1157,7 @@
             "open_issues": 1,
             "owner": "chelunfu",
             "repo": "qiluo_admin",
-            "stars": 244,
+            "stars": 245,
             "topics": [
               "admin-dashboard",
               "ai-admin",
@@ -1187,7 +1187,7 @@
             "id": 1188570818,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-29T06:26:36Z",
+            "last_commit": "2026-10-30T10:28:13Z",
             "open_issues": 1,
             "owner": "keycompute",
             "repo": "keycompute",
@@ -1292,7 +1292,7 @@
             "id": 448045451,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T07:44:19Z",
+            "last_commit": "2026-10-29T16:00:57Z",
             "open_issues": 32,
             "owner": "cncf",
             "repo": "clomonitor",
@@ -1394,8 +1394,8 @@
             "id": 1143689995,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T12:54:06Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-29T21:44:55Z",
+            "open_issues": 11,
             "owner": "joshrotenberg",
             "repo": "tower-mcp",
             "stars": 12,
@@ -1407,6 +1407,36 @@
               "rust",
               "tokio",
               "tower"
+            ]
+          },
+          "first_seen": "2026-08-28T15:41:18.884Z"
+        },
+        {
+          "node_type": "item",
+          "title": "xidl",
+          "description": "Using axum just like tonic, declare IDL, then generate server, client and OpenAPI. (axum 0.8; added on 2026.04.27)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://xidl.netlify.app",
+            "id": 1021129025,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-30T09:27:31Z",
+            "open_issues": 6,
+            "owner": "xidl",
+            "repo": "xidl",
+            "stars": 11,
+            "topics": [
+              "axum",
+              "dds",
+              "idl",
+              "jsonrpc",
+              "openapi",
+              "openrpc",
+              "rust",
+              "xidl"
             ]
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -1435,36 +1465,6 @@
             ]
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
-        },
-        {
-          "node_type": "item",
-          "title": "xidl",
-          "description": "Using axum just like tonic, declare IDL, then generate server, client and OpenAPI. (axum 0.8; added on 2026.04.27)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": "https://xidl.netlify.app",
-            "id": 1021129025,
-            "language": "Rust",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-29T08:36:27Z",
-            "open_issues": 3,
-            "owner": "xidl",
-            "repo": "xidl",
-            "stars": 10,
-            "topics": [
-              "axum",
-              "dds",
-              "idl",
-              "jsonrpc",
-              "openapi",
-              "openrpc",
-              "rust",
-              "xidl"
-            ]
-          },
-          "first_seen": "2026-08-28T15:41:18.884Z"
         }
       ],
       "title": "🖼️ Project showcase (axum 0.8.x)"
@@ -1484,11 +1484,11 @@
             "id": 342259394,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-28T20:48:20Z",
-            "open_issues": 68,
+            "last_commit": "2026-10-30T10:22:44Z",
+            "open_issues": 65,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3469,
+            "stars": 3471,
             "topics": [
               "api",
               "background-jobs",
@@ -1529,7 +1529,7 @@
             "open_issues": 14,
             "owner": "launchbadge",
             "repo": "realworld-axum-sqlx",
-            "stars": 1114,
+            "stars": 1115,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -1695,7 +1695,7 @@
             "open_issues": 15,
             "owner": "Deaftone",
             "repo": "Deaftone",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "audio-streaming",
               "music-server",
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T10:26:31.244Z",
+    "last_updated": "2026-10-30T10:28:40.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
