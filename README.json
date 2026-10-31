@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9546,
+            "stars": 9548,
             "topics": [
               "api",
               "axum",
@@ -45,7 +45,7 @@
             "open_issues": 15,
             "owner": "Totodore",
             "repo": "socketioxide",
-            "stars": 1632,
+            "stars": 1633,
             "topics": [
               "axum",
               "hyper",
@@ -137,7 +137,7 @@
             "open_issues": 5,
             "owner": "maxcountryman",
             "repo": "tower-sessions",
-            "stars": 424,
+            "stars": 425,
             "topics": [
               "axum",
               "axum-middleware",
@@ -951,7 +951,7 @@
             "open_issues": 79,
             "owner": "roapi",
             "repo": "roapi",
-            "stars": 3434,
+            "stars": 3435,
             "topics": [
               "analytics",
               "arrow",
@@ -991,7 +991,7 @@
             "open_issues": 28,
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 881,
+            "stars": 882,
             "topics": [
               "axum",
               "pastebin",
@@ -1075,8 +1075,8 @@
             "id": 965498420,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-25T16:05:46Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-31T09:10:42Z",
+            "open_issues": 10,
             "owner": "rikhuijzer",
             "repo": "bloglite",
             "stars": 335,
@@ -1292,7 +1292,7 @@
             "id": 448045451,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T16:00:57Z",
+            "last_commit": "2026-10-30T16:57:08Z",
             "open_issues": 32,
             "owner": "cncf",
             "repo": "clomonitor",
@@ -1423,11 +1423,11 @@
             "id": 1021129025,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T09:27:31Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-31T05:16:43Z",
+            "open_issues": 3,
             "owner": "xidl",
             "repo": "xidl",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "axum",
               "dds",
@@ -1484,11 +1484,11 @@
             "id": 342259394,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-30T10:22:44Z",
-            "open_issues": 65,
+            "last_commit": "2026-10-30T19:06:44Z",
+            "open_issues": 64,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3471,
+            "stars": 3470,
             "topics": [
               "api",
               "background-jobs",
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T10:28:40.377Z",
+    "last_updated": "2026-10-31T09:58:04.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
