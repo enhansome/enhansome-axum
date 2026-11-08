@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9588,
+            "stars": 9595,
             "topics": [
               "api",
               "axum",
@@ -45,7 +45,7 @@
             "open_issues": 22,
             "owner": "Totodore",
             "repo": "socketioxide",
-            "stars": 1634,
+            "stars": 1633,
             "topics": [
               "axum",
               "hyper",
@@ -307,7 +307,7 @@
             "id": 1071877745,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T23:33:11Z",
+            "last_commit": "2026-11-07T23:33:18Z",
             "open_issues": 10,
             "owner": "joshrotenberg",
             "repo": "tower-resilience",
@@ -991,7 +991,7 @@
             "open_issues": 28,
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 886,
+            "stars": 885,
             "topics": [
               "axum",
               "pastebin",
@@ -1038,8 +1038,8 @@
             "id": 441299511,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T09:04:45Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-08T05:13:10Z",
+            "open_issues": 23,
             "owner": "reductstore",
             "repo": "reductstore",
             "stars": 377,
@@ -1484,10 +1484,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-07T00:11:40Z",
-            "open_issues": 67,
+            "open_issues": 69,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3475,
+            "stars": 3477,
             "topics": [
               "api",
               "background-jobs",
@@ -1694,7 +1694,7 @@
             "open_issues": 15,
             "owner": "Deaftone",
             "repo": "Deaftone",
-            "stars": 122,
+            "stars": 121,
             "topics": [
               "audio-streaming",
               "music-server",
@@ -2207,7 +2207,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T10:42:16.455Z",
+    "last_updated": "2026-11-08T10:46:48.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
