@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9606,
+            "stars": 9610,
             "topics": [
               "api",
               "axum",
@@ -45,7 +45,7 @@
             "open_issues": 25,
             "owner": "Totodore",
             "repo": "socketioxide",
-            "stars": 1633,
+            "stars": 1636,
             "topics": [
               "axum",
               "hyper",
@@ -490,7 +490,7 @@
             "id": 606069662,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T20:05:47Z",
+            "last_commit": "2026-11-10T21:00:44Z",
             "open_issues": 17,
             "owner": "lpotthast",
             "repo": "axum-keycloak-auth",
@@ -991,7 +991,7 @@
             "open_issues": 28,
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 886,
+            "stars": 887,
             "topics": [
               "axum",
               "pastebin",
@@ -1018,7 +1018,7 @@
             "open_issues": 2,
             "owner": "jplatte",
             "repo": "turbo.fish",
-            "stars": 677,
+            "stars": 678,
             "topics": [
               "rust",
               "turbofish"
@@ -1079,7 +1079,7 @@
             "open_issues": 11,
             "owner": "rikhuijzer",
             "repo": "bloglite",
-            "stars": 337,
+            "stars": 338,
             "topics": [
               "blog-engine",
               "cms",
@@ -1104,7 +1104,7 @@
             "open_issues": 15,
             "owner": "freedit-org",
             "repo": "freedit",
-            "stars": 318,
+            "stars": 319,
             "topics": [
               "bbs",
               "forum",
@@ -1131,7 +1131,7 @@
             "open_issues": 8,
             "owner": "lingdu1234",
             "repo": "axum_admin",
-            "stars": 312,
+            "stars": 313,
             "topics": [
               "admin",
               "admin-dashboard",
@@ -1237,7 +1237,7 @@
             "open_issues": 0,
             "owner": "sukjaelee",
             "repo": "clean_axum_demo",
-            "stars": 205,
+            "stars": 206,
             "topics": [
               "axum",
               "demo",
@@ -1423,7 +1423,7 @@
             "id": 1021129025,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T02:12:43Z",
+            "last_commit": "2026-11-11T02:53:45Z",
             "open_issues": 0,
             "owner": "xidl",
             "repo": "xidl",
@@ -1483,11 +1483,11 @@
             "id": 342259394,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-09T21:16:23Z",
+            "last_commit": "2026-11-11T07:35:36Z",
             "open_issues": 71,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3478,
+            "stars": 3479,
             "topics": [
               "api",
               "background-jobs",
@@ -1528,7 +1528,7 @@
             "open_issues": 14,
             "owner": "launchbadge",
             "repo": "realworld-axum-sqlx",
-            "stars": 1116,
+            "stars": 1117,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -1549,7 +1549,7 @@
             "open_issues": 18,
             "owner": "ndelvalle",
             "repo": "rustapi",
-            "stars": 550,
+            "stars": 551,
             "topics": [
               "api",
               "axum",
@@ -2172,7 +2172,7 @@
             "open_issues": 0,
             "owner": "joelparkerhenderson",
             "repo": "demo-rust-axum",
-            "stars": 443,
+            "stars": 444,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -2207,7 +2207,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T11:48:40.812Z",
+    "last_updated": "2026-11-11T11:28:17.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
@@ -2219,7 +2219,7 @@
       "open_issues": 3,
       "owner": "szabgab",
       "repo": "awesome-axum",
-      "stars": 111,
+      "stars": 110,
       "topics": [
         "api",
         "awesome",
