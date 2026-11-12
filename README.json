@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9610,
+            "stars": 9614,
             "topics": [
               "api",
               "axum",
@@ -212,7 +212,7 @@
             "id": 459593698,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-29T18:43:07Z",
+            "last_commit": "2026-11-11T20:58:26Z",
             "open_issues": 3,
             "owner": "AscendingCreations",
             "repo": "AxumSession",
@@ -286,7 +286,7 @@
             "id": 427486076,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-22T17:31:39Z",
+            "last_commit": "2026-11-11T21:08:05Z",
             "open_issues": 1,
             "owner": "AscendingCreations",
             "repo": "AxumSessionAuth",
@@ -951,7 +951,7 @@
             "open_issues": 83,
             "owner": "roapi",
             "repo": "roapi",
-            "stars": 3435,
+            "stars": 3436,
             "topics": [
               "analytics",
               "arrow",
@@ -991,7 +991,7 @@
             "open_issues": 28,
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 887,
+            "stars": 888,
             "topics": [
               "axum",
               "pastebin",
@@ -1038,8 +1038,8 @@
             "id": 441299511,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T08:39:41Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-12T09:28:32Z",
+            "open_issues": 21,
             "owner": "reductstore",
             "repo": "reductstore",
             "stars": 378,
@@ -1079,7 +1079,7 @@
             "open_issues": 11,
             "owner": "rikhuijzer",
             "repo": "bloglite",
-            "stars": 338,
+            "stars": 339,
             "topics": [
               "blog-engine",
               "cms",
@@ -1483,11 +1483,11 @@
             "id": 342259394,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-11T07:35:36Z",
+            "last_commit": "2026-11-12T01:40:30Z",
             "open_issues": 71,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3479,
+            "stars": 3480,
             "topics": [
               "api",
               "background-jobs",
@@ -2207,7 +2207,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T11:28:17.744Z",
+    "last_updated": "2026-11-12T11:53:24.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
