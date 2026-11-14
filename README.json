@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T09:51:20Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9620,
+            "stars": 9626,
             "topics": [
               "api",
               "axum",
@@ -42,10 +42,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-03T20:20:10Z",
-            "open_issues": 25,
+            "open_issues": 28,
             "owner": "Totodore",
             "repo": "socketioxide",
-            "stars": 1636,
+            "stars": 1637,
             "topics": [
               "axum",
               "hyper",
@@ -263,7 +263,7 @@
             "open_issues": 7,
             "owner": "gengteng",
             "repo": "axum-valid",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "axum",
               "extractor",
@@ -1038,8 +1038,8 @@
             "id": 441299511,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T08:16:33Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-13T18:54:05Z",
+            "open_issues": 12,
             "owner": "reductstore",
             "repo": "reductstore",
             "stars": 378,
@@ -1483,11 +1483,11 @@
             "id": 342259394,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-12T18:14:00Z",
-            "open_issues": 76,
+            "last_commit": "2026-11-13T23:58:16Z",
+            "open_issues": 77,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3479,
+            "stars": 3480,
             "topics": [
               "api",
               "background-jobs",
@@ -1528,7 +1528,7 @@
             "open_issues": 14,
             "owner": "launchbadge",
             "repo": "realworld-axum-sqlx",
-            "stars": 1117,
+            "stars": 1118,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -2207,7 +2207,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T11:36:57.829Z",
+    "last_updated": "2026-11-14T10:58:33.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
