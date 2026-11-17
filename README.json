@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "loco-rs",
             "repo": "loco",
-            "stars": 9637,
+            "stars": 9638,
             "topics": [
               "api",
               "axum",
@@ -100,7 +100,7 @@
             "open_issues": 26,
             "owner": "summer-rs",
             "repo": "summer-rs",
-            "stars": 1031,
+            "stars": 1030,
             "topics": [
               "axum",
               "cron-job",
@@ -991,7 +991,7 @@
             "open_issues": 28,
             "owner": "matze",
             "repo": "wastebin",
-            "stars": 890,
+            "stars": 891,
             "topics": [
               "axum",
               "pastebin",
@@ -1157,7 +1157,7 @@
             "open_issues": 1,
             "owner": "chelunfu",
             "repo": "qiluo_admin",
-            "stars": 246,
+            "stars": 247,
             "topics": [
               "admin-dashboard",
               "ai-admin",
@@ -1317,7 +1317,7 @@
             "open_issues": 0,
             "owner": "sheroz",
             "repo": "axum-rest-api-sample",
-            "stars": 133,
+            "stars": 134,
             "topics": [
               "api",
               "api-rest",
@@ -1394,11 +1394,11 @@
             "id": 1143689995,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T00:54:09Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-17T00:28:35Z",
+            "open_issues": 3,
             "owner": "joshrotenberg",
             "repo": "tower-mcp",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "ai",
               "json-rpc",
@@ -1483,11 +1483,11 @@
             "id": 342259394,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-13T23:58:16Z",
+            "last_commit": "2026-11-17T12:24:30Z",
             "open_issues": 79,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3481,
+            "stars": 3484,
             "topics": [
               "api",
               "background-jobs",
@@ -2091,7 +2091,7 @@
             "id": 342960744,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-05T18:48:35Z",
+            "last_commit": "2026-11-17T00:01:45Z",
             "open_issues": 8,
             "owner": "stchris",
             "repo": "randoku",
@@ -2207,7 +2207,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T12:05:38.395Z",
+    "last_updated": "2026-11-17T12:30:42.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
