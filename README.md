@@ -1,11 +1,11 @@
 # Awesome axum with stars
 
 [axum](https://crates.io/crates/axum) is an HTTP routing and request-handling library written in Rust that focuses on ergonomics and modularity.
-[repository](https://github.com/tokio-rs/axum) ⭐ 27,867 | 🐛 111 | 🌐 Rust | 📅 2026-11-17
+[repository](https://github.com/tokio-rs/axum) ⭐ 27,883 | 🐛 110 | 🌐 Rust | 📅 2026-11-19
 
 This page contains a list of axum-related crates, project showcases, tutorials, videos, and other assorted items.
 
-It started as a copy of the `ECOSYSTEM.md` file of the [repository of axum](https://github.com/tokio-rs/axum) ⭐ 27,867 | 🐛 111 | 🌐 Rust | 📅 2026-11-17 when it was [removed](https://github.com/tokio-rs/axum/pull/3737) ⭐ 27,867 | 🐛 111 | 🌐 Rust | 📅 2026-11-17. After a brief maintenance as part of the 📖 [Code Maven axum book](https://axum.code-maven.com/) it was moved to the 🎉 [awesome axum](https://github.com/szabgab/awesome-axum) repository.
+It started as a copy of the `ECOSYSTEM.md` file of the [repository of axum](https://github.com/tokio-rs/axum) ⭐ 27,883 | 🐛 110 | 🌐 Rust | 📅 2026-11-19 when it was [removed](https://github.com/tokio-rs/axum/pull/3737) ⭐ 27,883 | 🐛 110 | 🌐 Rust | 📅 2026-11-19. After a brief maintenance as part of the 📖 [Code Maven axum book](https://axum.code-maven.com/) it was moved to the 🎉 [awesome axum](https://github.com/szabgab/awesome-axum) repository.
 
 ## Contribution
 
@@ -19,14 +19,14 @@ I have not checked these projects and I don't necessarily recommend them. Use th
 
 ## 📦 Community maintained axum ecosystem
 
-* [loco.rs](https://github.com/loco-rs/loco) ⭐ 9,652 | 🐛 20 | 🌐 Rust | 📅 2026-11-06: A full stack Web and API productivity framework similar to Rails, based on axum.
-* [socketioxide](https://github.com/totodore/socketioxide) ⭐ 1,637 | 🐛 28 | 🌐 Rust | 📅 2026-11-19: An easy to use socket.io server implementation working as a `tower` layer/service.
-* [zino](https://github.com/zino-rs/zino) ⭐ 1,155 | 🐛 8 | 🌐 Rust | 📅 2026-11-13: Zino is a next-generation framework for composable applications which provides full integrations with axum.
-* [spring-rs](https://github.com/spring-rs/spring-rs) ⭐ 1,030 | 🐛 26 | 🌐 Rust | 📅 2026-11-18: spring-rs is a microservice framework written in rust inspired by java's spring-boot, based on axum
-* [tower-sessions](https://github.com/maxcountryman/tower-sessions) ⭐ 425 | 🐛 5 | 🌐 Rust | 📅 2026-10-26: Sessions as a `tower` and `axum` middleware.
+* [loco.rs](https://github.com/loco-rs/loco) ⭐ 9,652 | 🐛 21 | 🌐 Rust | 📅 2026-11-06: A full stack Web and API productivity framework similar to Rails, based on axum.
+* [socketioxide](https://github.com/totodore/socketioxide) ⭐ 1,636 | 🐛 28 | 🌐 Rust | 📅 2026-11-19: An easy to use socket.io server implementation working as a `tower` layer/service.
+* [zino](https://github.com/zino-rs/zino) ⭐ 1,154 | 🐛 8 | 🌐 Rust | 📅 2026-11-20: Zino is a next-generation framework for composable applications which provides full integrations with axum.
+* [spring-rs](https://github.com/spring-rs/spring-rs) ⭐ 1,029 | 🐛 26 | 🌐 Rust | 📅 2026-11-18: spring-rs is a microservice framework written in rust inspired by java's spring-boot, based on axum
+* [tower-sessions](https://github.com/maxcountryman/tower-sessions) ⭐ 426 | 🐛 5 | 🌐 Rust | 📅 2026-10-26: Sessions as a `tower` and `axum` middleware.
 * [axum-htmx](https://github.com/robertwayne/axum-htmx) ⭐ 271 | 🐛 11 | 🌐 Rust | 📅 2026-01-20: Htmx extractors and request guards for axum.
 * [ezsockets](https://github.com/gbaranski/ezsockets) ⭐ 264 | 🐛 13 | 🌐 Rust | 📅 2026-05-18: Easy to use WebSocket library that integrates with axum.
-* [axum\_session](https://github.com/AscendingCreations/AxumSessions) ⭐ 205 | 🐛 3 | 🌐 Rust | 📅 2026-11-11: Database persistent sessions like pythons flask\_sessionstore for axum.
+* [axum\_session](https://github.com/AscendingCreations/AxumSessions) ⭐ 206 | 🐛 3 | 🌐 Rust | 📅 2026-11-11: Database persistent sessions like pythons flask\_sessionstore for axum.
 * [svelte-axum-project](https://github.com/jbertovic/svelte-axum-project) ⭐ 171 | 🐛 1 | 🌐 Rust | 📅 2023-10-17: Template and example for Svelte frontend app with axum as backend
 * [axum-valid](https://github.com/gengteng/axum-valid) ⭐ 167 | 🐛 7 | 🌐 Rust | 📅 2026-06-30: Extractors for data validation using validator, garde, and validify.
 * [axum\_session\_auth](https://github.com/AscendingCreations/AxumSessionsAuth) ⭐ 136 | 🐛 1 | 🌐 Rust | 📅 2026-11-11: Persistent session based user login with rights management for axum.
@@ -49,7 +49,7 @@ I have not checked these projects and I don't necessarily recommend them. Use th
 * [api-error](https://github.com/centreon/rs-api-error) ⭐ 18 | 🐛 2 | 🌐 Rust | 📅 2026-11-12: A proc macro to define HTTP errors in a thiserror way. It automatically implements `IntoResponse` for your error types. Allowing you to directly return `Result<(), MyError` from your axum handlers.
 * [tower-otel](https://github.com/mattiapenati/tower-otel) ⭐ 14 | 🐛 5 | 🌐 Rust | 📅 2026-11-16: OpenTelemetry layer for HTTP/gRPC services with optional axum integration.
 * [axum-serde](https://github.com/gengteng/axum-serde) ⭐ 12 | 🐛 1 | 🌐 Rust | 📅 2026-04-18: Provides multiple serde-based extractors / responses, also offers a macro to easily customize serde-based extractors / responses.
-* [axum-rails-cookie](https://github.com/endoze/axum-rails-cookie) ⭐ 6 | 🐛 1 | 🌐 Rust | 📅 2026-11-18: Extract rails session cookies in axum based apps.
+* [axum-rails-cookie](https://github.com/endoze/axum-rails-cookie) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2026-11-19: Extract rails session cookies in axum based apps.
 * [baxe](https://github.com/zyphelabs/baxe) ⭐ 5 | 🐛 2 | 🌐 Rust | 📅 2026-09-22: Simple macro for defining backend errors once and automatically generate standardized JSON error responses, saving time and reducing complexity
 * [axum-governor](https://crates.io/crates/axum-governor): An independent Axum middleware for rate limiting, powered by [lazy-limit](https://github.com/canmi21/lazy-limit) ⚠️ Archived (not related to tower-governor).
 * [Feature Flag Service](https://github.com/webrowse/feature-flag-service-backend/) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2026-08-19: A production-ready feature flag management service built with Rust, Axum, and PostgreSQL. (Addedon 2026.04.27)
@@ -87,17 +87,17 @@ I have not checked these projects and I don't necessarily recommend them. Use th
 
 Probably the best way to learn how to use axum is by looking at projects that are providing service.
 
-* [crates.io](https://crates.io/) itself uses axum as a web library and [diesel](https://crates.io/crates/diesel) for database access.  [GitHub](https://github.com/rust-lang/crates.io/) ⭐ 3,760 | 🐛 107 | 🌐 Rust | 📅 2026-11-19  (axum 0.8.9)
+* [crates.io](https://crates.io/) itself uses axum as a web library and [diesel](https://crates.io/crates/diesel) for database access.  [GitHub](https://github.com/rust-lang/crates.io/) ⭐ 3,762 | 🐛 106 | 🌐 Rust | 📅 2026-11-20  (axum 0.8.9)
 
 ## 🖼️ Project showcase (axum 0.8.x)
 
-* [ROAPI](https://github.com/roapi/roapi) ⭐ 3,436 | 🐛 90 | 🌐 Rust | 📅 2026-03-25: Create full-fledged APIs for static datasets without writing a single line of code. (axum 0.8)
-* [wastebin](https://github.com/matze/wastebin) ⭐ 891 | 🐛 28 | 🌐 Rust | 📅 2026-10-20: A minimalist pastebin service. (axum 0.8)
+* [ROAPI](https://github.com/roapi/roapi) ⭐ 3,435 | 🐛 90 | 🌐 Rust | 📅 2026-03-25: Create full-fledged APIs for static datasets without writing a single line of code. (axum 0.8)
+* [wastebin](https://github.com/matze/wastebin) ⭐ 891 | 🐛 29 | 🌐 Rust | 📅 2026-10-20: A minimalist pastebin service. (axum 0.8)
 * [turbo.fish](https://turbo.fish/) ([repository](https://github.com/jplatte/turbo.fish) ⚠️ Archived): Find out for yourself 😉 (archived; axum 0.8.1)
-* [ReductStore](https://github.com/reductstore/reductstore) ⭐ 381 | 🐛 9 | 🌐 Rust | 📅 2026-11-19: A time series database for storing and managing large amounts of blob data. (axum 0.8.7)
+* [ReductStore](https://github.com/reductstore/reductstore) ⭐ 380 | 🐛 10 | 🌐 Rust | 📅 2026-11-20: A time series database for storing and managing large amounts of blob data. (axum 0.8.7)
 * [fx](https://github.com/rikhuijzer/fx) ⭐ 339 | 🐛 12 | 🌐 Rust | 📅 2026-11-14: A (micro)blogging server that you can self-host. (axum 0.8)
-* [freedit](https://github.com/freedit-org/freedit) ⭐ 319 | 🐛 17 | 🌐 Rust | 📅 2026-11-09: A forum powered by rust. (axum 0.8.7)
-* [axum\_admin](https://github.com/lingdu1234/axum_admin) ⭐ 313 | 🐛 8 | 🌐 Rust | 📅 2026-06-24: An admin panel built with **axum**, Sea-orm and Vue 3. (axum 0.8.8)
+* [freedit](https://github.com/freedit-org/freedit) ⭐ 317 | 🐛 17 | 🌐 Rust | 📅 2026-11-09: A forum powered by rust. (axum 0.8.7)
+* [axum\_admin](https://github.com/lingdu1234/axum_admin) ⭐ 312 | 🐛 8 | 🌐 Rust | 📅 2026-06-24: An admin panel built with **axum**, Sea-orm and Vue 3. (axum 0.8.8)
 * [qiluo-admin](https://github.com/chelunfu/qiluo_admin) ⭐ 247 | 🐛 1 | 🌐 Rust | 📅 2026-07-22 | Axum + SeaORM + JWT + Scheduled + Tasks + SnowId + Redis + Memory + VUE3 | DB: MySQL, Postgres, SQLite. (axum 0.8.9)
 * [KeyCompute](https://github.com/aiqubits/keycompute) ⭐ 223 | 🐛 1 | 🌐 Rust | 📅 2026-11-09: KeyCompute is a high-performance, scalable, and ready-to-use AI computing power service platform. (axum 0.8; added on 2026.04.27)
 * [rgit](https://github.com/w4/rgit/) ⭐ 215 | 🐛 34 | 🌐 Rust | 📅 2025-10-01: A blazingly fast Git repository browser, compatible with- and heavily inspired by cgit. (axum 0.8)
@@ -107,7 +107,7 @@ Probably the best way to learn how to use axum is by looking at projects that ar
 * [axum-rest-api-example](https://github.com/sheroz/axum-rest-api-sample) ⭐ 134 | 🐛 0 | 🌐 Rust | 📅 2026-06-06: REST API Web service in Rust using axum, JSON Web Tokens (JWT), SQLx, PostgreSQL, Redis, Docker, structured error handling, and end-to-end API tests. (axum 0.8)
 * [webshelf](https://github.com/aiqubits/webshelf) ⭐ 66 | 🐛 0 | 🌐 Rust | 📅 2026-07-06: 🤘 A convenient way to develop your web service with one click. (axum 0.8.8)
 * [lishuuro.org](https://github.com/uros-5/backend-lishuuro) ⭐ 28 | 🐛 0 | 🌐 Rust | 📅 2025-08-01: Small chess variant server that uses axum for the backend. (axum 0.8.3)
-* [tower-mcp](https://github.com/joshrotenberg/tower-mcp) ⭐ 14 | 🐛 13 | 🌐 Rust | 📅 2026-11-19: Tower-native Model Context Protocol (MCP) implementation. (axum 0.8)
+* [tower-mcp](https://github.com/joshrotenberg/tower-mcp) ⭐ 14 | 🐛 11 | 🌐 Rust | 📅 2026-11-19: Tower-native Model Context Protocol (MCP) implementation. (axum 0.8)
 * [xidl](https://github.com/xidl/xidl) ⭐ 12 | 🐛 1 | 🌐 Rust | 📅 2026-11-17: Using axum just like tonic, declare IDL, then generate server, client and OpenAPI. (axum 0.8; added on 2026.04.27)
 * [remotehiro](https://www.remotehiro.com/) is a job board with performance, accessibility, and focus in mind.  [GitHub](https://github.com/tacohirosystems/remotehiro) ⭐ 12 | 🐛 1 | 🌐 SQL | 📅 2026-10-17 (axum 0.8; added on 2026.05.02)
 * [gitore](https://codeberg.org/kallisti5/gitore): A fork of `rgit`. (axum 0.8)
@@ -115,10 +115,10 @@ Probably the best way to learn how to use axum is by looking at projects that ar
 
 ## 🖼️ Project showcase (old)
 
-* [Svix](https://www.svix.com) ([repository](https://github.com/svix/svix-webhooks) ⭐ 3,486 | 🐛 77 | 🌐 Rust | 📅 2026-11-19): Enterprise-ready webhook service. (axum 0.7.9)
-* [realworld-axum-sqlx](https://github.com/launchbadge/realworld-axum-sqlx) ⭐ 1,118 | 🐛 14 | 🌐 Rust | 📅 2023-12-30: A Rust implementation of the [Realworld](https://github.com/gothinkster/realworld) ⭐ 84,390 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-02 demo app spec using axum and [SQLx](https://crates.io/crates/sqlx). (axum 0.3.4) See [fork](https://github.com/davidpdrsn/realworld-axum-sqlx) ⭐ 237 | 🐛 2 | 🌐 Rust | 📅 2024-07-25 with newer dependencies. (axum 0.7.3)
-* [Rustapi](https://github.com/ndelvalle/rustapi) ⭐ 551 | 🐛 18 | 🌐 Rust | 📅 2025-02-07: RESTful API template using MongoDB. (axum 0.7.5)
-* [Jotsy](https://github.com/ohsayan/jotsy) ⭐ 516 | 🐛 8 | 🌐 Rust | 📅 2022-11-28: Self-hosted notes app powered by Skytable, axum and Tokio. (axum 0.5.17)
+* [Svix](https://www.svix.com) ([repository](https://github.com/svix/svix-webhooks) ⭐ 3,486 | 🐛 78 | 🌐 Rust | 📅 2026-11-19): Enterprise-ready webhook service. (axum 0.7.9)
+* [realworld-axum-sqlx](https://github.com/launchbadge/realworld-axum-sqlx) ⭐ 1,118 | 🐛 14 | 🌐 Rust | 📅 2023-12-30: A Rust implementation of the [Realworld](https://github.com/gothinkster/realworld) ⭐ 84,394 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-02 demo app spec using axum and [SQLx](https://crates.io/crates/sqlx). (axum 0.3.4) See [fork](https://github.com/davidpdrsn/realworld-axum-sqlx) ⭐ 237 | 🐛 2 | 🌐 Rust | 📅 2024-07-25 with newer dependencies. (axum 0.7.3)
+* [Rustapi](https://github.com/ndelvalle/rustapi) ⭐ 550 | 🐛 18 | 🌐 Rust | 📅 2025-02-07: RESTful API template using MongoDB. (axum 0.7.5)
+* [Jotsy](https://github.com/ohsayan/jotsy) ⭐ 515 | 🐛 8 | 🌐 Rust | 📅 2022-11-28: Self-hosted notes app powered by Skytable, axum and Tokio. (axum 0.5.17)
 * [Hatsu](https://github.com/importantimport/hatsu) ⭐ 259 | 🐛 10 | 🌐 Rust | 📅 2026-11-07: 🩵 Self-hosted & Fully-automated ActivityPub Bridge for Static Sites. (axum 0.7)
 * [emojied](https://github.com/sekunho/emojied) ⭐ 196 | 🐛 1 | 🌐 Rust | 📅 2025-12-18: Shorten URLs to emojis! (axum 0.6)
 * [Houseflow](https://github.com/gbaranski/houseflow) ⭐ 190 | 🐛 26 | 🌐 Rust | 📅 2023-04-13: House automation platform written in Rust. (axum 0.5.1)
@@ -145,7 +145,7 @@ Probably the best way to learn how to use axum is by looking at projects that ar
 
 ## 📖 Tutorials
 
-* [demo-rust-axum](https://github.com/joelparkerhenderson/demo-rust-axum) ⭐ 444 | 🐛 0 | 🌐 Rust | 📅 2025-07-13: Demo of Rust and axum
+* [demo-rust-axum](https://github.com/joelparkerhenderson/demo-rust-axum) ⭐ 443 | 🐛 0 | 🌐 Rust | 📅 2025-07-13: Demo of Rust and axum
 * [axum-tutorial](https://github.com/programatik29/axum-tutorial) ⭐ 148 | 🐛 0 | 🌐 Rust | 📅 2024-11-07: axum tutorial for beginners. [website](https://programatik29.github.io/axum-tutorial/)
 * [Rust on Nails](https://rust-on-nails.com/): A full stack architecture for Rust web applications
 * [Getting Started with Axum](https://carlosmv.hashnode.dev/getting-started-with-axum-rust): axum tutorial, GET, POST endpoints and serving files
@@ -166,4 +166,4 @@ Probably the best way to learn how to use axum is by looking at projects that ar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

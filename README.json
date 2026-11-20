@@ -16,7 +16,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T09:51:20Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "loco-rs",
             "repo": "loco",
             "stars": 9652,
@@ -45,7 +45,7 @@
             "open_issues": 28,
             "owner": "Totodore",
             "repo": "socketioxide",
-            "stars": 1637,
+            "stars": 1636,
             "topics": [
               "axum",
               "hyper",
@@ -69,11 +69,11 @@
             "id": 583190364,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-13T06:40:22Z",
+            "last_commit": "2026-11-20T03:35:57Z",
             "open_issues": 8,
             "owner": "zino-rs",
             "repo": "zino",
-            "stars": 1155,
+            "stars": 1154,
             "topics": [
               "asynchronous",
               "http",
@@ -100,7 +100,7 @@
             "open_issues": 26,
             "owner": "summer-rs",
             "repo": "summer-rs",
-            "stars": 1030,
+            "stars": 1029,
             "topics": [
               "axum",
               "cron-job",
@@ -137,7 +137,7 @@
             "open_issues": 5,
             "owner": "maxcountryman",
             "repo": "tower-sessions",
-            "stars": 425,
+            "stars": 426,
             "topics": [
               "axum",
               "axum-middleware",
@@ -216,7 +216,7 @@
             "open_issues": 3,
             "owner": "AscendingCreations",
             "repo": "AxumSession",
-            "stars": 205,
+            "stars": 206,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -771,8 +771,8 @@
             "id": 886325417,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-18T01:39:30Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-19T16:41:15Z",
+            "open_issues": 0,
             "owner": "endoze",
             "repo": "axum-rails-cookie",
             "stars": 6,
@@ -951,7 +951,7 @@
             "open_issues": 90,
             "owner": "roapi",
             "repo": "roapi",
-            "stars": 3436,
+            "stars": 3435,
             "topics": [
               "analytics",
               "arrow",
@@ -988,7 +988,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-20T18:45:46Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "matze",
             "repo": "wastebin",
             "stars": 891,
@@ -1018,7 +1018,7 @@
             "open_issues": 2,
             "owner": "jplatte",
             "repo": "turbo.fish",
-            "stars": 678,
+            "stars": 677,
             "topics": [
               "rust",
               "turbofish"
@@ -1038,11 +1038,11 @@
             "id": 441299511,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T08:35:27Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-20T10:51:44Z",
+            "open_issues": 10,
             "owner": "reductstore",
             "repo": "reductstore",
-            "stars": 381,
+            "stars": 380,
             "topics": [
               "ai",
               "big-data",
@@ -1104,7 +1104,7 @@
             "open_issues": 17,
             "owner": "freedit-org",
             "repo": "freedit",
-            "stars": 319,
+            "stars": 317,
             "topics": [
               "bbs",
               "forum",
@@ -1131,7 +1131,7 @@
             "open_issues": 8,
             "owner": "lingdu1234",
             "repo": "axum_admin",
-            "stars": 313,
+            "stars": 312,
             "topics": [
               "admin",
               "admin-dashboard",
@@ -1394,8 +1394,8 @@
             "id": 1143689995,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T02:50:14Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-19T21:44:45Z",
+            "open_issues": 11,
             "owner": "joshrotenberg",
             "repo": "tower-mcp",
             "stars": 14,
@@ -1483,8 +1483,8 @@
             "id": 342259394,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-19T00:11:35Z",
-            "open_issues": 77,
+            "last_commit": "2026-11-19T18:54:21Z",
+            "open_issues": 78,
             "owner": "svix",
             "repo": "svix-webhooks",
             "stars": 3486,
@@ -1549,7 +1549,7 @@
             "open_issues": 18,
             "owner": "ndelvalle",
             "repo": "rustapi",
-            "stars": 551,
+            "stars": 550,
             "topics": [
               "api",
               "axum",
@@ -1578,7 +1578,7 @@
             "open_issues": 8,
             "owner": "ohsayan",
             "repo": "jotsy",
-            "stars": 516,
+            "stars": 515,
             "topics": [
               "bootstrap",
               "css",
@@ -2172,7 +2172,7 @@
             "open_issues": 0,
             "owner": "joelparkerhenderson",
             "repo": "demo-rust-axum",
-            "stars": 444,
+            "stars": 443,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:18.884Z"
@@ -2207,7 +2207,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T12:11:50.503Z",
+    "last_updated": "2026-11-20T12:13:29.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tutorials, showcases and extensions for the axum web site building crate written in Rust",
